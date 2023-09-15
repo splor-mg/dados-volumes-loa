@@ -1,0 +1,5 @@
+fields:
+  - name: fonte
+    type: string
+  - name: ordem
+    type: integer

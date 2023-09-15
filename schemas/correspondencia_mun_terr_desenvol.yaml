@@ -1,0 +1,13 @@
+fields:
+  - name: Cod7
+    type: integer
+  - name: Cod6
+    type: integer
+  - name: COD SIGPLAN
+    type: integer
+  - name: Municípios
+    type: string
+  - name: Código Região Geográfica Intermediária
+    type: integer
+  - name: Região Geográfica Intermediária
+    type: string

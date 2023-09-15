@@ -1,0 +1,5 @@
+fields:
+  - name: cod
+    type: integer
+  - name: descricao
+    type: string

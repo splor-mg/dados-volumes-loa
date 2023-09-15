@@ -1,0 +1,5 @@
+fields:
+  - name: cod_uo
+    type: integer
+  - name: nome
+    type: string

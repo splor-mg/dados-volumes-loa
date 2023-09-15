@@ -1,0 +1,11 @@
+fields:
+  - name: n4_banco
+    type: string
+  - name: n1
+    type: string
+  - name: n2
+    type: string
+  - name: n3
+    type: string
+  - name: n4_label
+    type: string

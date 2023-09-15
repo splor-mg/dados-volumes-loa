@@ -1,0 +1,7 @@
+fields:
+  - name: COD_UO
+    type: integer
+  - name: ACAO
+    type: integer
+  - name: DESCRITIVO_ACAO
+    type: string

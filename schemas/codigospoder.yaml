@@ -1,0 +1,5 @@
+fields:
+  - name: cod_poder
+    type: integer
+  - name: poder
+    type: string

@@ -1,14 +1,176 @@
 name: volumes-loa-dados
 resources:
-  - name: fact
-    path: data-raw/fact.txt
+  - name: exec_desp_realizada
+    path: data-raw/exec_desp_realizada.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/exec_desp_realizada.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/exec_desp_realizada.yaml
+  - name: exec_rec
+    path: data-raw/exec_rec.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/exec_rec.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/exec_rec.yaml
+  - name: anexo_detalhamento_investimentos
+    path: data-raw/ANEXO_detalhamento_investimentos.txt
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/ANEXO_detalhamento_investimentos.txt
+    scheme: file
     format: csv
     encoding: utf-8
-    dialect: dialect.yaml
-    schema: schemas/fact.yaml
-  - name: dim
-    path: data-raw/dim.txt
+    dialect:
+        delimiter: '\t'
+    schema: schemas/anexo_detalhamento_investimentos.yaml
+  - name: anexo_origens_de_recursos
+    path: data-raw/ANEXO_origens_de_recursos.txt
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/ANEXO_origens_de_recursos.txt
+    scheme: file
     format: csv
     encoding: utf-8
-    dialect: dialect.yaml
-    schema: schemas/dim.yaml
+    dialect:
+        delimiter: '\t'
+    schema: schemas/anexo_origens_de_recursos.yaml
+  - name: ffp_acoes
+    path: data-raw/FFP_acoes.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/FFP_acoes.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/ffp_acoes.yaml
+  - name: nome_uo_antigas
+    path: data-raw/Nome_UO_antigas.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/Nome_UO_antigas.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/nome_uo_antigas.yaml
+  - name: codigospoder
+    path: data-raw/codigosPoder.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/codigosPoder.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/codigospoder.yaml
+  - name: correspondencia_mun_terr_desenvol
+    path: data-raw/correspondencia_mun_terr_desenvol.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/correspondencia_mun_terr_desenvol.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/correspondencia_mun_terr_desenvol.yaml
+  - name: desc_iag
+    path: data-raw/desc_IAG.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/desc_IAG.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/desc_iag.yaml
+  - name: desc_ipu
+    path: data-raw/desc_IPU.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/desc_IPU.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/desc_ipu.yaml
+  - name: desc_classificacao_economica_despesa
+    path: data-raw/desc_classificacao_economica_despesa.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/desc_classificacao_economica_despesa.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/desc_classificacao_economica_despesa.yaml
+  - name: desc_classificacao_receita
+    path: data-raw/desc_classificacao_receita.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/desc_classificacao_receita.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/desc_classificacao_receita.yaml
+  - name: desc_fontes_de_recursos
+    path: data-raw/desc_fontes_de_recursos.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/desc_fontes_de_recursos.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/desc_fontes_de_recursos.yaml
+  - name: desc_funcao
+    path: data-raw/desc_funcao.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/desc_funcao.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/desc_funcao.yaml
+  - name: desc_grupos_de_despesa
+    path: data-raw/desc_grupos_de_despesa.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/desc_grupos_de_despesa.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/desc_grupos_de_despesa.yaml
+  - name: desc_subfuncao
+    path: data-raw/desc_subfuncao.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/desc_subfuncao.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/desc_subfuncao.yaml
+  - name: memoria_calculo
+    path: data-raw/memoria_calculo.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/memoria_calculo.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/memoria_calculo.yaml

@@ -1,0 +1,15 @@
+fields:
+  - name: ANO
+    type: integer
+  - name: MES_COD
+    type: integer
+  - name: UO_COD
+    type: integer
+  - name: FONTE_COD
+    type: integer
+  - name: RECEITA_COD
+    type: integer
+  - name: RECEITA_DESC
+    type: string
+  - name: VL_EFET_AJUST
+    type: number

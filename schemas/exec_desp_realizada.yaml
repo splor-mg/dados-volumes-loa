@@ -1,0 +1,41 @@
+fields:
+  - name: ANO
+    type: integer
+  - name: MES_COD
+    type: integer
+  - name: UO_COD
+    type: integer
+  - name: FUNCAO_COD
+    type: integer
+  - name: SUBFUNCAO_COD
+    type: integer
+  - name: PROGRAMA_COD
+    type: integer
+  - name: ACAO_COD
+    type: integer
+  - name: CATEGORIA_COD
+    type: integer
+  - name: GRUPO_COD
+    type: integer
+  - name: MODALIDADE_COD
+    type: integer
+  - name: ELEMENTO_COD
+    type: integer
+  - name: ITEM_COD
+    type: integer
+  - name: ELEMENTO_ITEM_COD
+    type: integer
+  - name: IPG_COD
+    type: integer
+  - name: FONTE_COD
+    type: integer
+  - name: IPU_COD
+    type: integer
+  - name: VL_EMP
+    type: number
+  - name: VL_LIQ
+    type: number
+  - name: VL_DESP_REALIZADA
+    type: number
+  - name: VL_PAGO_FIN
+    type: number

@@ -1,0 +1,5 @@
+fields:
+  - name: CODIGO
+    type: integer
+  - name: INTERPRETACAO
+    type: string

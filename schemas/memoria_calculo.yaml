@@ -1,0 +1,5 @@
+fields:
+  - name: ACAO_COD
+    type: integer
+  - name: ACAO_DESC
+    type: string

@@ -1,0 +1,7 @@
+fields:
+  - name: RECEITA_COD_2
+    type: integer
+  - name: RECEITA_DESC_2
+    type: string
+  - name: RECEITA_COD
+    type: string

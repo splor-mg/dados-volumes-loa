@@ -1,0 +1,5 @@
+fields:
+  - name: codigo
+    type: integer
+  - name: funcao
+    type: string

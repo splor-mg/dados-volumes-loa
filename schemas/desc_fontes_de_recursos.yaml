@@ -1,0 +1,7 @@
+fields:
+  - name: CODIGO
+    type: integer
+  - name: CLASSIFICACAO
+    type: string
+  - name: INTERPRETACAO
+    type: string

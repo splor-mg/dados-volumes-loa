@@ -1,0 +1,5 @@
+fields:
+  - name: codigo
+    type: string
+  - name: especificacao
+    type: string
