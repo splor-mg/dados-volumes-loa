@@ -1,11 +1,10 @@
 library(Microsoft365R)
 library(frictionless)
-library(purrr)
 
 extract_resource <- function(resource_name, descriptor) {
   # prevent multiple "Please make sure you have the right to access data..." on logs
   package <- suppressMessages(read_package(descriptor))
-  resource <- keep(package$resources, ~ .x$name == resource_name)[[1]]
+  resource <- Filter(function(x) {x$name == resource_name}, package$resources)[[1]]
   
   # prevent multiple "Loading Microsoft Graph ..." on logs
   site <- suppressMessages(get_sharepoint_site(site_url = resource[["sharepoint"]][["path"]]))

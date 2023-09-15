@@ -1,4 +1,6 @@
 Package: volumes-loa-dados
 Imports:
-    renv
+    renv,
+    Microsoft365R,
+    frictionless
 Encoding: UTF-8
