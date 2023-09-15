@@ -20,30 +20,6 @@ resources:
     format: xlsx
     encoding: utf-8
     schema: schemas/exec_rec.yaml
-  - name: anexo_detalhamento_investimentos
-    path: data-raw/ANEXO_detalhamento_investimentos.txt
-    sharepoint:
-        path: https://cecad365.sharepoint.com/sites/Splor/
-        drive: Documentos
-        item: General/@aid/loa2024/ANEXO_detalhamento_investimentos.txt
-    scheme: file
-    format: csv
-    encoding: utf-8
-    dialect:
-        delimiter: '\t'
-    schema: schemas/anexo_detalhamento_investimentos.yaml
-  - name: anexo_origens_de_recursos
-    path: data-raw/ANEXO_origens_de_recursos.txt
-    sharepoint:
-        path: https://cecad365.sharepoint.com/sites/Splor/
-        drive: Documentos
-        item: General/@aid/loa2024/ANEXO_origens_de_recursos.txt
-    scheme: file
-    format: csv
-    encoding: utf-8
-    dialect:
-        delimiter: '\t'
-    schema: schemas/anexo_origens_de_recursos.yaml
   - name: ffp_acoes
     path: data-raw/FFP_acoes.xlsx
     sharepoint:
