@@ -1,7 +1,9 @@
 from frictionless import Package
 import typer
+from typing_extensions import Annotated
 import logging
 from scripts.extract import extract_resource
+from scripts.build import build_package
 
 app = typer.Typer(pretty_exceptions_show_locals=False)
 
@@ -12,16 +14,20 @@ def callback():
     """
 
 @app.command()
-def resources(descriptor: str = 'datapackage.yaml'):
+def resources(descriptor: str = 'datapackage.yaml', path: Annotated[bool, typer.Option(help="Return resource path")] = False):
     """
     Data package resource names
     """
     package = Package(descriptor)
-    output = ' '.join(package.resource_names)
-    print(output)
+    if path:
+        output = [resource.path for resource in package.resources]
+    else:
+        output = package.resource_names
+    print(' '.join(output))
     return 0
 
 app.command(name="extract")(extract_resource)
+app.command(name="build")(build_package)
 
 if __name__ == "__main__":
     LOG_FORMAT = '%(asctime)s %(levelname)-5.5s [%(name)s] %(message)s'

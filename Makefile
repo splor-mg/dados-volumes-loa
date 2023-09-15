@@ -2,7 +2,7 @@
 
 EXT = txt
 RESOURCE_NAMES := $(shell python main.py resources)
-OUTPUT_FILES := $(addsuffix .csv,$(addprefix data/,$(RESOURCE_NAMES)))
+DATA_FILES := $(shell python main.py resources --path)
 
 all: extract validate
 
@@ -11,6 +11,14 @@ extract:
 
 validate: 
 	frictionless validate datapackage.yaml
+
+build: datapackage.json
+
+datapackage.json: $(DATA_FILES) scripts/build.py datapackage.yaml
+	python main.py build
+
+check:
+	frictionless validate datapackage.json
 
 publish: 
 	git add -Af datapackage.json data/*.csv data-raw/*.$(EXT)
