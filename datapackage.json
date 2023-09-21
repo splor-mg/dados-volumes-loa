@@ -9,10 +9,10 @@
       "format": "xlsx",
       "mediatype": "application/vnd.ms-excel",
       "encoding": "utf-8",
-      "hash": "sha256:804bf8c2660f9e60a5c1b279e15df958b2c4a2f2110845019b905efd8018e8a2",
-      "bytes": 7165560,
+      "hash": "sha256:fd6d7d9aab775edcd72cb75898f816daf89b2518c4945114582786a80e7330b7",
+      "bytes": 7023027,
       "fields": 20,
-      "rows": 78244,
+      "rows": 78245,
       "schema": "schemas/exec_desp_realizada.yaml",
       "sharepoint": {
         "path": "https://cecad365.sharepoint.com/sites/Splor/",
@@ -28,10 +28,10 @@
       "format": "xlsx",
       "mediatype": "application/vnd.ms-excel",
       "encoding": "utf-8",
-      "hash": "sha256:74db7f61679ab0a35c0e70d0f33a2f9c204bfcb486a7c6369bc84eaf4fb4863b",
-      "bytes": 287744,
+      "hash": "sha256:687af639bd299f75d999530edd01167bacb442729a2572460dcb1280ccc8fc69",
+      "bytes": 263359,
       "fields": 7,
-      "rows": 6234,
+      "rows": 6235,
       "schema": "schemas/exec_rec.yaml",
       "sharepoint": {
         "path": "https://cecad365.sharepoint.com/sites/Splor/",
@@ -180,10 +180,10 @@
       "format": "xlsx",
       "mediatype": "application/vnd.ms-excel",
       "encoding": "utf-8",
-      "hash": "sha256:56a520c62f66fef86dfb8f86e53a492fc77f5e5d53dad2817265fcdec2439d01",
-      "bytes": 134337,
+      "hash": "sha256:5ab9b532932b658b971f8c15406fcd9489dbfafeed53fecb432c6c25e95e3c1e",
+      "bytes": 132763,
       "fields": 3,
-      "rows": 3677,
+      "rows": 3752,
       "schema": "schemas/desc_classificacao_receita.yaml",
       "sharepoint": {
         "path": "https://cecad365.sharepoint.com/sites/Splor/",
@@ -287,5 +287,5 @@
       }
     }
   ],
-  "updated_at": "2023-09-20T14:27:16"
+  "updated_at": "2023-09-21T15:27:58"
 }
