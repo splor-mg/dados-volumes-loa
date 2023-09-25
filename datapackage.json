@@ -161,10 +161,10 @@
       "format": "xlsx",
       "mediatype": "application/vnd.ms-excel",
       "encoding": "utf-8",
-      "hash": "sha256:926b07683020b2db21307c6b094c1ddeb9ac2017c3ceb8448832faf96bbc064d",
-      "bytes": 25965,
+      "hash": "sha256:b21e5bad3e58cadcb07b1ad8006e01b7c4b365c9aaa180115feebe53b31d6403",
+      "bytes": 25974,
       "fields": 2,
-      "rows": 212,
+      "rows": 213,
       "schema": "schemas/desc_classificacao_economica_despesa.yaml",
       "sharepoint": {
         "path": "https://cecad365.sharepoint.com/sites/Splor/",
@@ -287,5 +287,5 @@
       }
     }
   ],
-  "updated_at": "2023-09-21T15:27:58"
+  "updated_at": "2023-09-25T08:13:57"
 }
