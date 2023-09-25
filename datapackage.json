@@ -180,8 +180,8 @@
       "format": "xlsx",
       "mediatype": "application/vnd.ms-excel",
       "encoding": "utf-8",
-      "hash": "sha256:5ab9b532932b658b971f8c15406fcd9489dbfafeed53fecb432c6c25e95e3c1e",
-      "bytes": 132763,
+      "hash": "sha256:a14aa1b89c32607b48148afc007f665678db66aaa73df9ae8a84827fbbb732c8",
+      "bytes": 129483,
       "fields": 3,
       "rows": 3752,
       "schema": "schemas/desc_classificacao_receita.yaml",
@@ -287,5 +287,5 @@
       }
     }
   ],
-  "updated_at": "2023-09-25T08:13:57"
+  "updated_at": "2023-09-25T09:43:51"
 }
