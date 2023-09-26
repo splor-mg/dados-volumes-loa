@@ -150,3 +150,13 @@ resources:
     format: xlsx
     encoding: utf-8
     schema: schemas/memoria_calculo.yaml
+  - name: desc_base_legal_demonstrativos
+    path: data-raw/desc_base_legal_demonstrativos.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/desc_base_legal_demonstrativos.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/desc_base_legal_demonstrativos.yaml

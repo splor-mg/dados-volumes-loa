@@ -180,8 +180,8 @@
       "format": "xlsx",
       "mediatype": "application/vnd.ms-excel",
       "encoding": "utf-8",
-      "hash": "sha256:a14aa1b89c32607b48148afc007f665678db66aaa73df9ae8a84827fbbb732c8",
-      "bytes": 129483,
+      "hash": "sha256:fc1de96b386e6ba9a0f7452a323af6c713cb17590f5a0ede75d5b632969c3d2c",
+      "bytes": 132146,
       "fields": 3,
       "rows": 3752,
       "schema": "schemas/desc_classificacao_receita.yaml",
@@ -285,7 +285,26 @@
         "drive": "Documentos",
         "item": "General/@aid/loa2024/memoria_calculo.xlsx"
       }
+    },
+    {
+      "name": "desc_base_legal_demonstrativos",
+      "type": "table",
+      "path": "data-raw/desc_base_legal_demonstrativos.xlsx",
+      "scheme": "file",
+      "format": "xlsx",
+      "mediatype": "application/vnd.ms-excel",
+      "encoding": "utf-8",
+      "hash": "sha256:24719daab3f5772e64748e057dcfb49bc913806cc0d6b7a306720216ed728a76",
+      "bytes": 22440,
+      "fields": 3,
+      "rows": 28,
+      "schema": "schemas/desc_base_legal_demonstrativos.yaml",
+      "sharepoint": {
+        "path": "https://cecad365.sharepoint.com/sites/Splor/",
+        "drive": "Documentos",
+        "item": "General/@aid/loa2024/desc_base_legal_demonstrativos.xlsx"
+      }
     }
   ],
-  "updated_at": "2023-09-25T09:43:51"
+  "updated_at": "2023-09-26T18:47:58"
 }

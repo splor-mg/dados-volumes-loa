@@ -1,0 +1,7 @@
+fields:
+  - name: cod
+    type: string
+  - name: desc
+    type: string
+  - name: legislacao
+    type: string
