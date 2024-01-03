@@ -1,0 +1,868 @@
+cod7,cod6,cod_sigplan,municipios,codigo_regiao_geografica_intermediaria,regiao_geografica_intermediaria
+3104452,310445,690,ARICANDUVA,3103,Região Intermediária de Teófilo Otoni
+3112307,311230,696,CAPELINHA,3103,Região Intermediária de Teófilo Otoni
+3116100,311610,701,CHAPADA DO NORTE,3103,Região Intermediária de Teófilo Otoni
+3138351,313835,722,LEME DO PRADO,3103,Região Intermediária de Teófilo Otoni
+3141801,314180,727,MINAS NOVAS,3103,Região Intermediária de Teófilo Otoni
+3169703,316970,748,TURMALINA,3103,Região Intermediária de Teófilo Otoni
+3171071,317107,750,VEREDINHA,3103,Região Intermediária de Teófilo Otoni
+3102407,310240,4,ALVORADA DE MINAS,3103,Região Intermediária de Teófilo Otoni
+3113503,311350,698,CARBONITA,3103,Região Intermediária de Teófilo Otoni
+3116803,311680,768,COLUNA,3104,Região Intermediária de Governador Valadares
+3120102,312010,42,COUTO DE MAGALHÃES DE MINAS,3103,Região Intermediária de Teófilo Otoni
+3121001,312100,46,DATAS,3103,Região Intermediária de Teófilo Otoni
+3121605,312160,49,DIAMANTINA,3103,Região Intermediária de Teófilo Otoni
+3125408,312540,56,FELÍCIO DOS SANTOS,3103,Região Intermediária de Teófilo Otoni
+3127602,312760,62,GOUVEIA,3103,Região Intermediária de Teófilo Otoni
+3132503,313250,712,ITAMARANDIBA,3103,Região Intermediária de Teófilo Otoni
+3140605,314060,806,MATERLÂNDIA,3104,Região Intermediária de Governador Valadares
+3153301,315330,113,PRESIDENTE KUBITSCHEK,3103,Região Intermediária de Teófilo Otoni
+3156007,315600,123,RIO VERMELHO,3104,Região Intermediária de Governador Valadares
+3160207,316020,135,SANTO ANTÔNIO DO ITAMBÉ,3103,Região Intermediária de Teófilo Otoni
+3125507,312550,141,SÃO GONÇALO DO RIO PRETO,3103,Região Intermediária de Teófilo Otoni
+3165909,316590,150,SENADOR MODESTINO GONÇALVES,3103,Região Intermediária de Teófilo Otoni
+3166501,316650,152,SERRA AZUL DE MINAS,3103,Região Intermediária de Teófilo Otoni
+3167103,316710,153,SERRO,3103,Região Intermediária de Teófilo Otoni
+3100302,310030,159,ABRE CAMPO,3106,Região Intermediária de Juíz de Fora
+3102050,310205,162,ALTO CAPARAÓ,3106,Região Intermediária de Juíz de Fora
+3153509,315350,163,ALTO JEQUITIBÁ,3106,Região Intermediária de Juíz de Fora
+3112109,311210,180,CAPARAÓ,3106,Região Intermediária de Juíz de Fora
+3112901,311290,181,CAPUTIRA,3106,Região Intermediária de Juíz de Fora
+3116001,311600,185,CHALÉ,3106,Região Intermediária de Juíz de Fora
+3117405,311740,769,CONCEIÇÃO DE IPANEMA,3106,Região Intermediária de Juíz de Fora
+3123528,312352,196,DURANDÉ,3106,Região Intermediária de Juíz de Fora
+3131208,313120,793,IPANEMA,3106,Região Intermediária de Juíz de Fora
+3137700,313770,213,LAJINHA,3106,Região Intermediária de Juíz de Fora
+3138674,313867,218,LUISBURGO,3106,Região Intermediária de Juíz de Fora
+3139409,313940,219,MANHUAÇU,3106,Região Intermediária de Juíz de Fora
+3139508,313950,220,MANHUMIRIM,3106,Região Intermediária de Juíz de Fora
+3140530,314053,223,MARTINS SOARES,3106,Região Intermediária de Juíz de Fora
+3140902,314090,225,MATIPÓ,3106,Região Intermediária de Juíz de Fora
+3144003,314400,810,MUTUM,3106,Região Intermediária de Juíz de Fora
+3151909,315190,821,POCRANE,3106,Região Intermediária de Juíz de Fora
+3154150,315415,253,REDUTO,3106,Região Intermediária de Juíz de Fora
+3157906,315790,265,SANTA MARGARIDA,3106,Região Intermediária de Juíz de Fora
+3158904,315890,270,SANTANA DO MANHUAÇU,3106,Região Intermediária de Juíz de Fora
+3162559,316255,276,SÃO JOÃO DO MANHUAÇU,3106,Região Intermediária de Juíz de Fora
+3163607,316360,278,SÃO JOSÉ DO MANTIMENTO,3106,Região Intermediária de Juíz de Fora
+3167608,316760,289,SIMONÉSIA,3106,Região Intermediária de Juíz de Fora
+3168051,316805,846,TAPARUBA,3106,Região Intermediária de Juíz de Fora
+3100401,310040,160,ACAIACA,3106,Região Intermediária de Juíz de Fora
+3102308,310230,3,ALVINÓPOLIS,3106,Região Intermediária de Juíz de Fora
+3102506,310250,165,AMPARO DO SERRA,3106,Região Intermediária de Juíz de Fora
+3105707,310570,172,BARRA LONGA,3106,Região Intermediária de Juíz de Fora
+3121704,312170,50,DIOGO DE VASCONCELOS,3106,Região Intermediária de Juíz de Fora
+3122702,312270,193,DOM SILVÉRIO,3106,Região Intermediária de Juíz de Fora
+3128204,312820,205,GUARACIABA,3106,Região Intermediária de Juíz de Fora
+3135506,313550,211,JEQUERI,3106,Região Intermediária de Juíz de Fora
+3145851,314585,232,ORATÓRIOS,3106,Região Intermediária de Juíz de Fora
+3150208,315020,244,PIEDADE DE PONTE NOVA,3106,Região Intermediária de Juíz de Fora
+3152105,315210,248,PONTE NOVA,3106,Região Intermediária de Juíz de Fora
+3154002,315400,251,RAUL SOARES,3105,Região Intermediária de Ipatinga
+3154903,315490,254,RIO CASCA,3106,Região Intermediária de Juíz de Fora
+3155009,315500,255,RIO DOCE,3106,Região Intermediária de Juíz de Fora
+3157401,315740,264,SANTA CRUZ DO ESCALVADO,3106,Região Intermediária de Juíz de Fora
+3160108,316010,272,SANTO ANTÔNIO DO GRAMA,3106,Região Intermediária de Juíz de Fora
+3163409,316340,146,SÃO JOSÉ DO GOIABAL,3105,Região Intermediária de Ipatinga
+3164001,316400,280,SÃO PEDRO DOS FERROS,3106,Região Intermediária de Juíz de Fora
+3165560,316556,282,SEM-PEIXE,3106,Região Intermediária de Juíz de Fora
+3166303,316630,286,SERICITA,3106,Região Intermediária de Juíz de Fora
+3170503,317050,295,URUCÂNIA,3106,Região Intermediária de Juíz de Fora
+3171154,317115,296,VERMELHO NOVO,3105,Região Intermediária de Ipatinga
+3103702,310370,168,ARAPONGA,3106,Região Intermediária de Juíz de Fora
+3110202,311020,178,CAJURI,3106,Região Intermediária de Juíz de Fora
+3111705,311170,179,CANAÃ,3106,Região Intermediária de Juíz de Fora
+3148301,314830,237,PAULA CÂNDIDO,3106,Região Intermediária de Juíz de Fora
+3148806,314880,239,PEDRA DO ANTA,3106,Região Intermediária de Juíz de Fora
+3152303,315230,249,PORTO FIRME,3106,Região Intermediária de Juíz de Fora
+3163805,316380,279,SÃO MIGUEL DO ANTA,3106,Região Intermediária de Juíz de Fora
+3168507,316850,291,TEIXEIRAS,3106,Região Intermediária de Juíz de Fora
+3171303,317130,297,VIÇOSA,3106,Região Intermediária de Juíz de Fora
+3104809,310480,7,AUGUSTO DE LIMA,3101,Região Intermediária de Belo Horizonte
+3109204,310920,20,BUENÓPOLIS,3101,Região Intermediária de Belo Horizonte
+3119104,311910,40,CORINTO,3101,Região Intermediária de Belo Horizonte
+3120904,312090,45,CURVELO,3101,Região Intermediária de Belo Horizonte
+3125705,312570,57,FELIXLÂNDIA,3101,Região Intermediária de Belo Horizonte
+3131109,313110,67,INIMUTABA,3101,Região Intermediária de Belo Horizonte
+3142502,314250,89,MONJOLOS,3101,Região Intermediária de Belo Horizonte
+3143609,314360,91,MORRO DA GARÇA,3101,Região Intermediária de Belo Horizonte
+3153202,315320,112,PRESIDENTE JUSCELINO,3101,Região Intermediária de Belo Horizonte
+3160603,316060,137,SANTO HIPÓLITO,3101,Região Intermediária de Belo Horizonte
+3169356,316935,157,TRÊS MARIAS,3101,Região Intermediária de Belo Horizonte
+3100203,310020,1,ABAETÉ,3113,Região Intermediária de Divinópolis
+3107000,310700,16,BIQUINHAS,3113,Região Intermediária de Divinópolis
+3115607,311560,31,CEDRO DO ABAETÉ,3113,Região Intermediária de Divinópolis
+3143500,314350,90,MORADA NOVA DE MINAS,3113,Região Intermediária de Divinópolis
+3146404,314640,100,PAINEIRAS,3113,Região Intermediária de Divinópolis
+3152006,315200,110,POMPÉU,3113,Região Intermediária de Divinópolis
+3101508,310150,161,ALÉM PARAÍBA,3106,Região Intermediária de Juíz de Fora
+3124609,312460,199,ESTRELA DALVA,3106,Região Intermediária de Juíz de Fora
+3151107,315110,246,PIRAPETINGA,3106,Região Intermediária de Juíz de Fora
+3160009,316000,271,SANTO ANTÔNIO DO AVENTUREIRO,3106,Região Intermediária de Juíz de Fora
+3172103,317210,300,VOLTA GRANDE,3106,Região Intermediária de Juíz de Fora
+3110103,311010,177,CAIANA,3106,Região Intermediária de Juíz de Fora
+3113305,311330,182,CARANGOLA,3106,Região Intermediária de Juíz de Fora
+3122009,312200,192,DIVINO,3106,Região Intermediária de Juíz de Fora
+3124203,312420,198,ESPERA FELIZ,3106,Região Intermediária de Juíz de Fora
+3125309,312530,202,FARIA LEMOS,3106,Região Intermediária de Juíz de Fora
+3125952,312595,203,FERVEDOURO,3106,Região Intermediária de Juíz de Fora
+3145877,314587,233,ORIZÂNIA,3106,Região Intermediária de Juíz de Fora
+3148756,314875,238,PEDRA BONITA,3106,Região Intermediária de Juíz de Fora
+3149002,314900,240,PEDRA DOURADA,3106,Região Intermediária de Juíz de Fora
+3169208,316920,293,TOMBOS,3106,Região Intermediária de Juíz de Fora
+3104403,310440,169,ARGIRITA,3106,Região Intermediária de Juíz de Fora
+3104601,310460,170,ASTOLFO DUTRA,3106,Região Intermediária de Juíz de Fora
+3115300,311530,183,CATAGUASES,3106,Região Intermediária de Juíz de Fora
+3122900,312290,194,DONA EUZÉBIA,3106,Região Intermediária de Juíz de Fora
+3132602,313260,210,ITAMARATI DE MINAS,3106,Região Intermediária de Juíz de Fora
+3138005,313800,215,LARANJAL,3106,Região Intermediária de Juíz de Fora
+3138401,313840,216,LEOPOLDINA,3106,Região Intermediária de Juíz de Fora
+3146701,314670,235,PALMA,3106,Região Intermediária de Juíz de Fora
+3154101,315410,252,RECREIO,3106,Região Intermediária de Juíz de Fora
+3158409,315840,268,SANTANA DE CATAGUASES,3106,Região Intermediária de Juíz de Fora
+3106101,310610,173,BELMIRO BRAGA,3106,Região Intermediária de Juíz de Fora
+3106804,310680,174,BIAS FORTES,3106,Região Intermediária de Juíz de Fora
+3115904,311590,184,CHÁCARA,3106,Região Intermediária de Juíz de Fora
+3116209,311620,186,CHIADOR,3106,Região Intermediária de Juíz de Fora
+3119609,311960,189,CORONEL PACHECO,3106,Região Intermediária de Juíz de Fora
+3127388,312738,204,GOIANÁ,3106,Região Intermediária de Juíz de Fora
+3136702,313670,212,JUIZ DE FORA,3106,Região Intermediária de Juíz de Fora
+3140803,314080,224,MATIAS BARBOSA,3106,Região Intermediária de Juíz de Fora
+3149408,314940,241,PEDRO TEIXEIRA,3106,Região Intermediária de Juíz de Fora
+3150109,315010,243,PIAU,3106,Região Intermediária de Juíz de Fora
+3155405,315540,257,RIO NOVO,3106,Região Intermediária de Juíz de Fora
+3155900,315590,259,RIO PRETO,3106,Região Intermediária de Juíz de Fora
+3157278,315727,263,SANTA BÁRBARA DO MONTE VERDE,3106,Região Intermediária de Juíz de Fora
+3158607,315860,269,SANTANA DO DESERTO,3106,Região Intermediária de Juíz de Fora
+3167509,316750,288,SIMÃO PEREIRA,3106,Região Intermediária de Juíz de Fora
+3102803,310280,308,ANDRELÂNDIA,3106,Região Intermediária de Juíz de Fora
+3103603,310360,309,ARANTINA,3106,Região Intermediária de Juíz de Fora
+3107208,310720,315,BOCAINA DE MINAS,3106,Região Intermediária de Juíz de Fora
+3107505,310750,316,BOM JARDIM DE MINAS,3106,Região Intermediária de Juíz de Fora
+3138500,313850,392,LIBERDADE,3106,Região Intermediária de Juíz de Fora
+3138609,313860,217,LIMA DUARTE,3106,Região Intermediária de Juíz de Fora
+3145406,314540,230,OLARIA,3106,Região Intermediária de Juíz de Fora
+3147808,314780,412,PASSA VINTE,3106,Região Intermediária de Juíz de Fora
+3159308,315930,267,SANTA RITA DE JACUTINGA,3106,Região Intermediária de Juíz de Fora
+3103108,310310,166,ANTÔNIO PRADO DE MINAS,3106,Região Intermediária de Juíz de Fora
+3105509,310550,171,BARÃO DE MONTE ALTO,3106,Região Intermediária de Juíz de Fora
+3124906,312490,200,EUGENÓPOLIS,3106,Região Intermediária de Juíz de Fora
+3142106,314210,227,MIRADOURO,3106,Região Intermediária de Juíz de Fora
+3142205,314220,228,MIRAÍ,3106,Região Intermediária de Juíz de Fora
+3143906,314390,229,MURIAÉ,3106,Região Intermediária de Juíz de Fora
+3148202,314820,236,PATROCÍNIO DO MURIAÉ,3106,Região Intermediária de Juíz de Fora
+3156452,315645,262,ROSÁRIO DA LIMEIRA,3106,Região Intermediária de Juíz de Fora
+3161403,316140,274,SÃO FRANCISCO DO GLÓRIA,3106,Região Intermediária de Juíz de Fora
+3164431,316443,281,SÃO SEBASTIÃO DA VARGEM ALEGRE,3106,Região Intermediária de Juíz de Fora
+3171402,317140,298,VIEIRAS,3106,Região Intermediária de Juíz de Fora
+3103306,310330,167,ARACITABA,3106,Região Intermediária de Juíz de Fora
+3125002,312500,201,EWBANK DA CÂMARA,3106,Região Intermediária de Juíz de Fora
+3145703,314570,231,OLIVEIRA FORTES,3106,Região Intermediária de Juíz de Fora
+3160702,316070,273,SANTOS DUMONT,3106,Região Intermediária de Juíz de Fora
+3106903,310690,175,BICAS,3106,Região Intermediária de Juíz de Fora
+3121308,312130,190,DESCOBERTO,3106,Região Intermediária de Juíz de Fora
+3128501,312850,207,GUARARÁ,3106,Região Intermediária de Juíz de Fora
+3139805,313980,221,MAR DE ESPANHA,3106,Região Intermediária de Juíz de Fora
+3140209,314020,222,MARIPÁ DE MINAS,3106,Região Intermediária de Juíz de Fora
+3149507,314950,242,PEQUERI,3106,Região Intermediária de Juíz de Fora
+3156205,315620,260,ROCHEDO DE MINAS,3106,Região Intermediária de Juíz de Fora
+3162906,316290,277,SÃO JOÃO NEPOMUCENO,3106,Região Intermediária de Juíz de Fora
+3165602,316560,283,SENADOR CORTES,3106,Região Intermediária de Juíz de Fora
+3108701,310870,176,BRÁS PIRES,3106,Região Intermediária de Juíz de Fora
+3116704,311670,188,COIMBRA,3106,Região Intermediária de Juíz de Fora
+3121902,312190,191,DIVINÉSIA,3106,Região Intermediária de Juíz de Fora
+3123304,312330,195,DORES DO TURVO,3106,Região Intermediária de Juíz de Fora
+3124005,312400,197,ERVÁLIA,3106,Região Intermediária de Juíz de Fora
+3128402,312840,206,GUARANI,3106,Região Intermediária de Juíz de Fora
+3128808,312880,208,GUIDOVAL,3106,Região Intermediária de Juíz de Fora
+3129004,312900,209,GUIRICEMA,3106,Região Intermediária de Juíz de Fora
+3141603,314160,226,MERCÊS,3106,Região Intermediária de Juíz de Fora
+3151305,315130,247,PIRAÚBA,3106,Região Intermediária de Juíz de Fora
+3153103,315310,250,PRESIDENTE BERNARDES,3106,Região Intermediária de Juíz de Fora
+3155801,315580,258,RIO POMBA,3106,Região Intermediária de Juíz de Fora
+3156304,315630,261,RODEIRO,3106,Região Intermediária de Juíz de Fora
+3161502,316150,275,SÃO GERALDO,3106,Região Intermediária de Juíz de Fora
+3165701,316570,284,SENADOR FIRMINO,3106,Região Intermediária de Juíz de Fora
+3167301,316730,287,SILVEIRÂNIA,3106,Região Intermediária de Juíz de Fora
+3167905,316790,290,TABULEIRO,3106,Região Intermediária de Juíz de Fora
+3169000,316900,292,TOCANTINS,3106,Região Intermediária de Juíz de Fora
+3169901,316990,294,UBÁ,3106,Região Intermediária de Juíz de Fora
+3172004,317200,299,VISCONDE DO RIO BRANCO,3106,Região Intermediária de Juíz de Fora
+3101706,310170,687,ALMENARA,3103,Região Intermediária de Teófilo Otoni
+3105202,310520,692,BANDEIRA,3103,Região Intermediária de Teófilo Otoni
+3136504,313650,719,JORDÂNIA,3103,Região Intermediária de Teófilo Otoni
+3140555,314055,725,MATA VERDE,3103,Região Intermediária de Teófilo Otoni
+3156601,315660,740,RUBIM,3103,Região Intermediária de Teófilo Otoni
+3103405,310340,689,ARAÇUAÍ,3103,Região Intermediária de Teófilo Otoni
+3106507,310650,693,BERILO,3103,Região Intermediária de Teófilo Otoni
+3119500,311950,703,CORONEL MURTA,3103,Região Intermediária de Teófilo Otoni
+3126505,312650,707,FRANCISCO BADARÓ,3103,Região Intermediária de Teófilo Otoni
+3134004,313400,714,ITINGA,3103,Região Intermediária de Teófilo Otoni
+3135456,313545,716,JENIPAPO DE MINAS,3103,Região Intermediária de Teófilo Otoni
+3136520,313652,720,JOSÉ GONÇALVES DE MINAS,3103,Região Intermediária de Teófilo Otoni
+3171600,317160,751,VIRGEM DA LAPA,3103,Região Intermediária de Teófilo Otoni
+3125606,312560,706,FELISBURGO,3103,Região Intermediária de Teófilo Otoni
+3135803,313580,717,JEQUITINHONHA,3103,Região Intermediária de Teófilo Otoni
+3136009,313600,718,JOAÍMA,3103,Região Intermediária de Teófilo Otoni
+3146750,314675,734,PALMÓPOLIS,3103,Região Intermediária de Teófilo Otoni
+3155108,315510,739,RIO DO PRADO,3103,Região Intermediária de Teófilo Otoni
+3113008,311300,697,CARAÍ,3103,Região Intermediária de Teófilo Otoni
+3133303,313330,713,ITAOBIM,3103,Região Intermediária de Teófilo Otoni
+3143153,314315,728,MONTE FORMOSO,3103,Região Intermediária de Teófilo Otoni
+3145307,314530,730,NOVO CRUZEIRO,3103,Região Intermediária de Teófilo Otoni
+3146305,314630,733,PADRE PARAÍSO,3103,Região Intermediária de Teófilo Otoni
+3152170,315217,737,PONTO DOS VOLANTES,3103,Região Intermediária de Teófilo Otoni
+3134707,313470,715,JACINTO,3103,Região Intermediária de Teófilo Otoni
+3157104,315710,741,SALTO DA DIVISA,3103,Região Intermediária de Teófilo Otoni
+3158102,315810,743,SANTA MARIA DO SALTO,3103,Região Intermediária de Teófilo Otoni
+3160306,316030,744,SANTO ANTÔNIO DO JACINTO,3103,Região Intermediária de Teófilo Otoni
+3101003,310100,597,ÁGUAS VERMELHAS,3103,Região Intermediária de Teófilo Otoni
+3102704,310270,695,CACHOEIRA DE PAJEÚ,3103,Região Intermediária de Teófilo Otoni
+3117009,311700,702,COMERCINHO,3103,Região Intermediária de Teófilo Otoni
+3122355,312235,613,DIVISA ALEGRE,3103,Região Intermediária de Teófilo Otoni
+3122454,312245,705,DIVISÓPOLIS,3103,Região Intermediária de Teófilo Otoni
+3141405,314140,726,MEDINA,3103,Região Intermediária de Teófilo Otoni
+3148707,314870,736,PEDRA AZUL,3103,Região Intermediária de Teófilo Otoni
+3106200,310620,13,BELO HORIZONTE,3101,Região Intermediária de Belo Horizonte
+3106705,310670,15,BETIM,3101,Região Intermediária de Belo Horizonte
+3108107,310810,18,BONFIM,3113,Região Intermediária de Divinópolis
+3109006,310900,19,BRUMADINHO,3101,Região Intermediária de Belo Horizonte
+3120607,312060,44,CRUCILÂNDIA,3113,Região Intermediária de Divinópolis
+3124104,312410,55,ESMERALDAS,3101,Região Intermediária de Belo Horizonte
+3126000,312600,59,FLORESTAL,3101,Região Intermediária de Belo Horizonte
+3130101,313010,65,IGARAPÉ,3101,Região Intermediária de Belo Horizonte
+3136652,313665,79,JUATUBA,3101,Região Intermediária de Belo Horizonte
+3140159,314015,85,MÁRIO CAMPOS,3101,Região Intermediária de Belo Horizonte
+3140704,314070,86,MATEUS LEME,3101,Região Intermediária de Belo Horizonte
+3142304,314230,88,MOEDA,3101,Região Intermediária de Belo Horizonte
+3150406,315040,108,PIEDADE DOS GERAIS,3113,Região Intermediária de Divinópolis
+3155306,315530,121,RIO MANSO,3113,Região Intermediária de Divinópolis
+3162922,316292,143,SÃO JOAQUIM DE BICAS,3101,Região Intermediária de Belo Horizonte
+3118601,311860,38,CONTAGEM,3101,Região Intermediária de Belo Horizonte
+3129806,312980,64,IBIRITÉ,3101,Região Intermediária de Belo Horizonte
+3165537,316553,149,SARZEDO,3101,Região Intermediária de Belo Horizonte
+3105400,310540,9,BARÃO DE COCAIS,3101,Região Intermediária de Belo Horizonte
+3107703,310770,17,BOM JESUS DO AMPARO,3101,Região Intermediária de Belo Horizonte
+3115359,311535,29,CATAS ALTAS,3101,Região Intermediária de Belo Horizonte
+3125903,312590,58,FERROS,3101,Região Intermediária de Belo Horizonte
+3131703,313170,68,ITABIRA,3101,Região Intermediária de Belo Horizonte
+3132800,313280,71,ITAMBÉ DO MATO DENTRO,3101,Região Intermediária de Belo Horizonte
+3143708,314370,92,MORRO DO PILAR,3101,Região Intermediária de Belo Horizonte
+3147501,314750,104,PASSABÉM,3101,Região Intermediária de Belo Horizonte
+3157203,315720,126,SANTA BÁRBARA,3101,Região Intermediária de Belo Horizonte
+3158003,315800,130,SANTA MARIA DE ITABIRA,3101,Região Intermediária de Belo Horizonte
+3160504,316050,136,SANTO ANTÔNIO DO RIO ABAIXO,3101,Região Intermediária de Belo Horizonte
+3161908,316190,140,SÃO GONÇALO DO RIO ABAIXO,3105,Região Intermediária de Ipatinga
+3164803,316480,147,SÃO SEBASTIÃO DO RIO PRETO,3101,Região Intermediária de Belo Horizonte
+3106002,310600,12,BELA VISTA DE MINAS,3105,Região Intermediária de Ipatinga
+3121803,312180,51,DIONÍSIO,3105,Região Intermediária de Ipatinga
+3136207,313620,77,JOÃO MONLEVADE,3105,Região Intermediária de Ipatinga
+3144706,314470,94,NOVA ERA,3105,Região Intermediária de Ipatinga
+3155702,315570,122,RIO PIRACICABA,3105,Região Intermediária de Ipatinga
+3161007,316100,139,SÃO DOMINGOS DO PRATA,3105,Região Intermediária de Ipatinga
+3110004,311000,23,CAETÉ,3101,Região Intermediária de Belo Horizonte
+3144805,314480,95,NOVA LIMA,3101,Região Intermediária de Belo Horizonte
+3136603,313660,96,NOVA UNIÃO,3101,Região Intermediária de Belo Horizonte
+3153905,315390,116,RAPOSOS,3101,Região Intermediária de Belo Horizonte
+3154804,315480,120,RIO ACIMA,3101,Região Intermediária de Belo Horizonte
+3156700,315670,125,SABARÁ,3101,Região Intermediária de Belo Horizonte
+3157807,315780,129,SANTA LUZIA,3101,Região Intermediária de Belo Horizonte
+3168309,316830,155,TAQUARAÇU DE MINAS,3101,Região Intermediária de Belo Horizonte
+3106408,310640,14,BELO VALE,3107,Região Intermediária de Barbacena
+3131901,313190,69,ITABIRITO,3101,Região Intermediária de Belo Horizonte
+3140001,314000,84,MARIANA,3101,Região Intermediária de Belo Horizonte
+3146107,314610,99,OURO PRETO,3101,Região Intermediária de Belo Horizonte
+3103207,310320,6,ARAÇAÍ,3101,Região Intermediária de Belo Horizonte
+3105004,310500,8,BALDIM,3101,Região Intermediária de Belo Horizonte
+3109600,310960,21,CACHOEIRA DA PRATA,3101,Região Intermediária de Belo Horizonte
+3109907,310990,22,CAETANÓPOLIS,3101,Região Intermediária de Belo Horizonte
+3112505,311250,25,CAPIM BRANCO,3101,Região Intermediária de Belo Horizonte
+3118106,311810,36,CONGONHAS DO NORTE,3101,Região Intermediária de Belo Horizonte
+3118908,311890,39,CORDISBURGO,3101,Região Intermediária de Belo Horizonte
+3126406,312640,60,FORTUNA DE MINAS,3101,Região Intermediária de Belo Horizonte
+3127206,312720,61,FUNILÂNDIA,3101,Região Intermediária de Belo Horizonte
+3131000,313100,66,INHAÚMA,3101,Região Intermediária de Belo Horizonte
+3135704,313570,76,JEQUITIBÁ,3101,Região Intermediária de Belo Horizonte
+3139706,313970,83,MARAVILHAS,3113,Região Intermediária de Divinópolis
+3146909,314690,101,PAPAGAIOS,3113,Região Intermediária de Divinópolis
+3147402,314740,103,PARAOPEBA,3101,Região Intermediária de Belo Horizonte
+3149606,314960,106,PEQUI,3113,Região Intermediária de Divinópolis
+3153608,315360,114,PRUDENTE DE MORAIS,3101,Região Intermediária de Belo Horizonte
+3158508,315850,131,SANTANA DE PIRAPAMA,3101,Região Intermediária de Belo Horizonte
+3167202,316720,154,SETE LAGOAS,3101,Região Intermediária de Belo Horizonte
+3113800,311380,766,CARMÉSIA,3101,Região Intermediária de Belo Horizonte
+3117504,311750,33,CONCEIÇÃO DO MATO DENTRO,3101,Região Intermediária de Belo Horizonte
+3117876,311787,34,CONFINS,3101,Região Intermediária de Belo Horizonte
+3122603,312260,52,DOM JOAQUIM,3104,Região Intermediária de Governador Valadares
+3134608,313460,74,JABOTICATUBAS,3101,Região Intermediária de Belo Horizonte
+3137601,313760,81,LAGOA SANTA,3101,Região Intermediária de Belo Horizonte
+3141108,314110,87,MATOZINHOS,3101,Região Intermediária de Belo Horizonte
+3149309,314930,105,PEDRO LEOPOLDO,3101,Região Intermediária de Belo Horizonte
+3154606,315460,119,RIBEIRÃO DAS NEVES,3101,Região Intermediária de Belo Horizonte
+3159001,315900,133,SANTANA DO RIACHO,3101,Região Intermediária de Belo Horizonte
+3162955,316295,144,SÃO JOSÉ DA LAPA,3101,Região Intermediária de Belo Horizonte
+3171204,317120,158,VESPASIANO,3101,Região Intermediária de Belo Horizonte
+3100906,310090,686,ÁGUAS FORMOSAS,3103,Região Intermediária de Teófilo Otoni
+3106606,310660,694,BERTÓPOLIS,3103,Região Intermediária de Teófilo Otoni
+3120151,312015,704,CRISÓLITA,3103,Região Intermediária de Teófilo Otoni
+3127057,312705,710,FRONTEIRA DOS VALES,3103,Região Intermediária de Teófilo Otoni
+3138906,313890,723,MACHACALIS,3103,Região Intermediária de Teófilo Otoni
+3145356,314535,731,NOVO ORIENTE DE MINAS,3103,Região Intermediária de Teófilo Otoni
+3148509,314850,735,PAVÃO,3103,Região Intermediária de Teófilo Otoni
+3157658,315765,742,SANTA HELENA DE MINAS,3103,Região Intermediária de Teófilo Otoni
+3170305,317030,749,UMBURATIBA,3103,Região Intermediária de Teófilo Otoni
+3113701,311370,699,CARLOS CHAGAS,3103,Região Intermediária de Teófilo Otoni
+3144300,314430,729,NANUQUE,3103,Região Intermediária de Teófilo Otoni
+3166709,316670,745,SERRA DOS AIMORÉS,3103,Região Intermediária de Teófilo Otoni
+3102852,310285,688,ANGELÂNDIA,3103,Região Intermediária de Teófilo Otoni
+3104700,310470,691,ATALÉIA,3103,Região Intermediária de Teófilo Otoni
+3110806,311080,762,CAMPANÁRIO,3103,Região Intermediária de Teófilo Otoni
+3115458,311545,700,CATUJI,3103,Região Intermediária de Teófilo Otoni
+3126752,312675,708,FRANCISCÓPOLIS,3103,Região Intermediária de Teófilo Otoni
+3126802,312680,709,FREI GASPAR,3103,Região Intermediária de Teófilo Otoni
+3132305,313230,711,ITAIPÉ,3103,Região Intermediária de Teófilo Otoni
+3132701,313270,796,ITAMBACURI,3103,Região Intermediária de Teófilo Otoni
+3137007,313700,721,LADAINHA,3103,Região Intermediária de Teófilo Otoni
+3139201,313920,724,MALACACHETA,3103,Região Intermediária de Teófilo Otoni
+3144904,314490,814,NOVA MÓDICA,3103,Região Intermediária de Teófilo Otoni
+3146206,314620,732,OURO VERDE DE MINAS,3103,Região Intermediária de Teófilo Otoni
+3150000,315000,818,PESCADOR,3103,Região Intermediária de Teófilo Otoni
+3152402,315240,738,POTÉ,3103,Região Intermediária de Teófilo Otoni
+3163300,316330,838,SÃO JOSÉ DO DIVINO,3103,Região Intermediária de Teófilo Otoni
+3165552,316555,746,SETUBINHA,3103,Região Intermediária de Teófilo Otoni
+3168606,316860,747,TEÓFILO OTONI,3103,Região Intermediária de Teófilo Otoni
+3108552,310855,580,BRASILÂNDIA DE MINAS,3112,Região Intermediária de Patos de Minas
+3136306,313630,586,JOÃO PINHEIRO,3112,Região Intermediária de Patos de Minas
+3137536,313753,588,LAGOA GRANDE,3112,Região Intermediária de Patos de Minas
+3103801,310380,492,ARAPUÁ,3112,Região Intermediária de Patos de Minas
+3114303,311430,495,CARMO DO PARANAÍBA,3112,Região Intermediária de Patos de Minas
+3128600,312860,585,GUARDA-MOR,3112,Região Intermediária de Patos de Minas
+3137106,313710,587,LAGAMAR,3112,Região Intermediária de Patos de Minas
+3137502,313750,504,LAGOA FORMOSA,3112,Região Intermediária de Patos de Minas
+3141207,314120,505,MATUTINA,3112,Região Intermediária de Patos de Minas
+3148004,314800,508,PATOS DE MINAS,3112,Região Intermediária de Patos de Minas
+3153400,315340,591,PRESIDENTE OLEGÁRIO,3112,Região Intermediária de Patos de Minas
+3155504,315550,513,RIO PARANAÍBA,3112,Região Intermediária de Patos de Minas
+3159704,315970,517,SANTA ROSA DA SERRA,3110,Região Intermediária de Uberaba
+3161700,316170,592,SÃO GONÇALO DO ABAETÉ,3112,Região Intermediária de Patos de Minas
+3162104,316210,518,SÃO GOTARDO,3112,Região Intermediária de Patos de Minas
+3168903,316890,521,TIROS,3112,Região Intermediária de Patos de Minas
+3170750,317075,595,VARJÃO DE MINAS,3112,Região Intermediária de Patos de Minas
+3171006,317100,596,VAZANTE,3112,Região Intermediária de Patos de Minas
+3104502,310450,578,ARINOS,3112,Região Intermediária de Patos de Minas
+3108206,310820,579,BONFINÓPOLIS DE MINAS,3112,Região Intermediária de Patos de Minas
+3109303,310930,581,BURITIS,3112,Região Intermediária de Patos de Minas
+3109451,310945,582,CABECEIRA GRANDE,3112,Região Intermediária de Patos de Minas
+3116159,311615,607,CHAPADA GAÚCHA,3102,Região Intermediária de Montes Claros
+3122470,312247,583,DOM BOSCO,3112,Região Intermediária de Patos de Minas
+3126208,312620,584,FORMOSO,3112,Região Intermediária de Patos de Minas
+3144375,314437,589,NATALÂNDIA,3112,Região Intermediária de Patos de Minas
+3147006,314700,590,PARACATU,3112,Região Intermediária de Patos de Minas
+3154457,315445,663,RIACHINHO,3112,Região Intermediária de Patos de Minas
+3170404,317040,593,UNAÍ,3112,Região Intermediária de Patos de Minas
+3170479,317047,594,URUANA DE MINAS,3112,Região Intermediária de Patos de Minas
+3107307,310730,599,BOCAIÚVA,3102,Região Intermediária de Montes Claros
+3123809,312380,614,ENGENHEIRO NAVARRO,3102,Região Intermediária de Montes Claros
+3126604,312660,616,FRANCISCO DUMONT,3102,Região Intermediária de Montes Claros
+3128253,312825,622,GUARACIAMA,3102,Região Intermediária de Montes Claros
+3136405,313640,78,JOAQUIM FELÍCIO,3102,Região Intermediária de Montes Claros
+3145455,314545,654,OLHOS-D ÁGUA,3102,Região Intermediária de Montes Claros
+3115474,311547,606,CATUTI,3102,Região Intermediária de Montes Claros
+3124302,312430,615,ESPINOSA,3102,Região Intermediária de Montes Claros
+3127339,312733,619,GAMELEIRAS,3102,Região Intermediária de Montes Claros
+3139250,313925,641,MAMONAS,3102,Região Intermediária de Montes Claros
+3141009,314100,644,MATO VERDE,3102,Região Intermediária de Montes Claros
+3142908,314290,648,MONTE AZUL,3102,Região Intermediária de Montes Claros
+3143450,314345,650,MONTEZUMA,3102,Região Intermediária de Montes Claros
+3160454,316045,670,SANTO ANTÔNIO DO RETIRO,3102,Região Intermediária de Montes Claros
+3170651,317065,682,VARGEM GRANDE DO RIO PARDO,3102,Região Intermediária de Montes Claros
+3135050,313505,629,JAÍBA,3102,Região Intermediária de Montes Claros
+3135100,313510,630,JANAÚBA,3102,Região Intermediária de Montes Claros
+3145059,314505,652,NOVA PORTEIRINHA,3102,Região Intermediária de Montes Claros
+3146552,314655,656,PAI PEDRO,3102,Região Intermediária de Montes Claros
+3152204,315220,662,PORTEIRINHA,3102,Região Intermediária de Montes Claros
+3154507,315450,664,RIACHO DOS MACHADOS,3102,Região Intermediária de Montes Claros
+3166956,316695,678,SERRANÓPOLIS DE MINAS,3102,Região Intermediária de Montes Claros
+3171030,317103,685,VERDELÂNDIA,3102,Região Intermediária de Montes Claros
+3108255,310825,600,BONITO DE MINAS,3102,Região Intermediária de Montes Claros
+3117836,311783,609,CÔNEGO MARINHO,3102,Região Intermediária de Montes Claros
+3129657,312965,624,IBIRACATU,3102,Região Intermediária de Montes Claros
+3132107,313210,628,ITACARAMBI,3102,Região Intermediária de Montes Claros
+3135209,313520,631,JANUÁRIA,3102,Região Intermediária de Montes Claros
+3138658,313865,639,LONTRA,3102,Região Intermediária de Montes Claros
+3149150,314915,658,PEDRAS DE MARIA DA CRUZ,3102,Região Intermediária de Montes Claros
+3136959,313695,636,JUVENÍLIA,3102,Região Intermediária de Montes Claros
+3139300,313930,642,MANGA,3102,Região Intermediária de Montes Claros
+3140852,314085,643,MATIAS CARDOSO,3102,Região Intermediária de Montes Claros
+3142254,314225,646,MIRAVÂNIA,3102,Região Intermediária de Montes Claros
+3142700,314270,647,MONTALVÂNIA,3102,Região Intermediária de Montes Claros
+3162450,316245,674,SÃO JOÃO DAS MISSÕES,3102,Região Intermediária de Montes Claros
+3108503,310850,601,BOTUMIRIM,3102,Região Intermediária de Montes Claros
+3112703,311270,605,CAPITÃO ENÉAS,3102,Região Intermediária de Montes Claros
+3116506,311650,608,CLARO DOS POÇÕES,3102,Região Intermediária de Montes Claros
+3118809,311880,610,CORAÇÃO DE JESUS,3102,Região Intermediária de Montes Claros
+3120300,312030,611,CRISTÁLIA,3102,Região Intermediária de Montes Claros
+3126703,312670,617,FRANCISCO SÁ,3102,Região Intermediária de Montes Claros
+3127354,312735,620,GLAUCILÂNDIA,3102,Região Intermediária de Montes Claros
+3127800,312780,621,GRÃO MOGOL,3102,Região Intermediária de Montes Claros
+3132008,313200,627,ITACAMBIRA,3102,Região Intermediária de Montes Claros
+3136801,313680,635,JURAMENTO,3102,Região Intermediária de Montes Claros
+3142007,314200,645,MIRABELA,3102,Região Intermediária de Montes Claros
+3143302,314330,649,MONTES CLAROS,3102,Região Intermediária de Montes Claros
+3147956,314795,657,PATIS,3102,Região Intermediária de Montes Claros
+3162252,316225,672,SÃO JOÃO DA LAGOA,3102,Região Intermediária de Montes Claros
+3162401,316240,673,SÃO JOÃO DA PONTE,3102,Região Intermediária de Montes Claros
+3162658,316265,675,SÃO JOÃO DO PACUÍ,3102,Região Intermediária de Montes Claros
+3170909,317090,684,VARZELÂNDIA,3102,Região Intermediária de Montes Claros
+3109402,310940,603,BURITIZEIRO,3102,Região Intermediária de Montes Claros
+3129608,312960,623,IBIAÍ,3102,Região Intermediária de Montes Claros
+3135605,313560,633,JEQUITAÍ,3102,Região Intermediária de Montes Claros
+3137304,313730,637,LAGOA DOS PATOS,3102,Região Intermediária de Montes Claros
+3138104,313810,638,LASSANCE,3102,Região Intermediária de Montes Claros
+3151206,315120,660,PIRAPORA,3102,Região Intermediária de Montes Claros
+3152131,315213,661,PONTO CHIQUE,3102,Região Intermediária de Montes Claros
+3157609,315760,669,SANTA FÉ DE MINAS,3102,Região Intermediária de Montes Claros
+3170800,317080,683,VÁRZEA DA PALMA,3102,Região Intermediária de Montes Claros
+3106655,310665,598,BERIZAL,3102,Região Intermediária de Montes Claros
+3120870,312087,612,CURRAL DE DENTRO,3102,Região Intermediária de Montes Claros
+3127073,312707,618,FRUTA DE LEITE,3102,Região Intermediária de Montes Claros
+3130655,313065,626,INDAIABIRA,3102,Região Intermediária de Montes Claros
+3136579,313657,634,JOSENÓPOLIS,3102,Região Intermediária de Montes Claros
+3144656,314465,651,NINHEIRA,3102,Região Intermediária de Montes Claros
+3145372,314537,653,NOVORIZONTE,3102,Região Intermediária de Montes Claros
+3146255,314625,655,PADRE CARVALHO,3102,Região Intermediária de Montes Claros
+3155603,315560,665,RIO PARDO DE MINAS,3102,Região Intermediária de Montes Claros
+3156502,315650,666,RUBELITA,3102,Região Intermediária de Montes Claros
+3157005,315700,667,SALINAS,3102,Região Intermediária de Montes Claros
+3157377,315737,668,SANTA CRUZ DE SALINAS,3102,Região Intermediária de Montes Claros
+3162708,316270,676,SÃO JOÃO DO PARAÍSO,3102,Região Intermediária de Montes Claros
+3168002,316800,679,TAIOBEIRAS,3102,Região Intermediária de Montes Claros
+3108602,310860,602,BRASÍLIA DE MINAS,3102,Região Intermediária de Montes Claros
+3111150,311115,604,CAMPO AZUL,3102,Região Intermediária de Montes Claros
+3130051,313005,625,ICARAÍ DE MINAS,3102,Região Intermediária de Montes Claros
+3135357,313535,632,JAPONVAR,3102,Região Intermediária de Montes Claros
+3138682,313868,640,LUISLÂNDIA,3102,Região Intermediária de Montes Claros
+3150570,315057,659,PINTÓPOLIS,3102,Região Intermediária de Montes Claros
+3161106,316110,671,SÃO FRANCISCO,3102,Região Intermediária de Montes Claros
+3164209,316420,677,SÃO ROMÃO,3102,Região Intermediária de Montes Claros
+3170008,317000,680,UBAÍ,3102,Região Intermediária de Montes Claros
+3170529,317052,681,URUCUIA,3112,Região Intermediária de Patos de Minas
+3107406,310740,526,BOM DESPACHO,3113,Região Intermediária de Divinópolis
+3123205,312320,541,DORES DO INDAIÁ,3113,Região Intermediária de Divinópolis
+3124708,312470,543,ESTRELA DO INDAIÁ,3113,Região Intermediária de Divinópolis
+3138807,313880,553,LUZ,3113,Região Intermediária de Divinópolis
+3140506,314050,554,MARTINHO CAMPOS,3113,Região Intermediária de Divinópolis
+3142403,314240,556,MOEMA,3113,Região Intermediária de Divinópolis
+3153707,315370,567,QUARTEL GERAL,3113,Região Intermediária de Divinópolis
+3166600,316660,575,SERRA DA SAUDADE,3113,Região Intermediária de Divinópolis
+3100807,310080,522,AGUANIL,3108,Região Intermediária de Varginha
+3108008,310800,527,BOM SUCESSO,3108,Região Intermediária de Varginha
+3110400,311040,528,CAMACHO,3113,Região Intermediária de Divinópolis
+3111200,311120,529,CAMPO BELO,3108,Região Intermediária de Varginha
+3111903,311190,530,CANA VERDE,3108,Região Intermediária de Varginha
+3112000,311200,531,CANDEIAS,3108,Região Intermediária de Varginha
+3114006,311400,532,CARMO DA MATA,3113,Região Intermediária de Divinópolis
+3114501,311450,534,CARMÓPOLIS DE MINAS,3113,Região Intermediária de Divinópolis
+3120201,312020,539,CRISTAIS,3108,Região Intermediária de Varginha
+3145604,314560,558,OLIVEIRA,3113,Região Intermediária de Divinópolis
+3147709,314770,560,PASSA TEMPO,3113,Região Intermediária de Divinópolis
+3158805,315880,568,SANTANA DO JACARÉ,3108,Região Intermediária de Varginha
+3159902,315990,569,SANTO ANTÔNIO DO AMPARO,3108,Região Intermediária de Varginha
+3161205,316120,571,SÃO FRANCISCO DE PAULA,3113,Região Intermediária de Divinópolis
+3103900,310390,523,ARAÚJOS,3113,Região Intermediária de Divinópolis
+3104205,310420,524,ARCOS,3113,Região Intermediária de Divinópolis
+3114204,311420,533,CARMO DO CAJURU,3113,Região Intermediária de Divinópolis
+3116605,311660,535,CLÁUDIO,3113,Região Intermediária de Divinópolis
+3122306,312230,540,DIVINÓPOLIS,3113,Região Intermediária de Divinópolis
+3133501,313350,548,ITAPECERICA,3113,Região Intermediária de Divinópolis
+3135308,313530,550,JAPARAÍBA,3113,Região Intermediária de Divinópolis
+3137205,313720,551,LAGOA DA PRATA,3113,Região Intermediária de Divinópolis
+3148905,314890,561,PEDRA DO INDAIÁ,3113,Região Intermediária de Divinópolis
+3149705,314970,562,PERDIGÃO,3113,Região Intermediária de Divinópolis
+3160405,316040,570,SANTO ANTÔNIO DO MONTE,3113,Região Intermediária de Divinópolis
+3161809,316180,572,SÃO GONÇALO DO PARÁ,3113,Região Intermediária de Divinópolis
+3164605,316460,574,SÃO SEBASTIÃO DO OESTE,3113,Região Intermediária de Divinópolis
+3105103,310510,525,BAMBUÍ,3113,Região Intermediária de Divinópolis
+3119807,311980,537,CÓRREGO DANTA,3113,Região Intermediária de Divinópolis
+3119955,311995,538,CÓRREGO FUNDO,3113,Região Intermediária de Divinópolis
+3126109,312610,544,FORMIGA,3113,Região Intermediária de Divinópolis
+3130309,313030,547,IGUATAMA,3113,Região Intermediária de Divinópolis
+3141306,314130,555,MEDEIROS,3113,Região Intermediária de Divinópolis
+3146503,314650,559,PAINS,3113,Região Intermediária de Divinópolis
+3150505,315050,564,PIMENTA,3113,Região Intermediária de Divinópolis
+3168200,316820,576,TAPIRAÍ,3113,Região Intermediária de Divinópolis
+3132206,313220,70,ITAGUARA,3113,Região Intermediária de Divinópolis
+3133709,313370,72,ITATIAIUÇU,3113,Região Intermediária de Divinópolis
+3133808,313380,549,ITAÚNA,3113,Região Intermediária de Divinópolis
+3150604,315060,565,PIRACEMA,3113,Região Intermediária de Divinópolis
+3117603,311760,536,CONCEIÇÃO DO PARÁ,3113,Região Intermediária de Divinópolis
+3130200,313020,546,IGARATINGA,3113,Região Intermediária de Divinópolis
+3138302,313830,552,LEANDRO FERREIRA,3113,Região Intermediária de Divinópolis
+3145208,314520,557,NOVA SERRANA,3113,Região Intermediária de Divinópolis
+3145802,314580,97,ONÇA DE PITANGUI,3113,Região Intermediária de Divinópolis
+3147105,314710,102,PARÁ DE MINAS,3113,Região Intermediária de Divinópolis
+3151404,315140,109,PITANGUI,3113,Região Intermediária de Divinópolis
+3163102,316310,145,SÃO JOSÉ DA VARGINHA,3113,Região Intermediária de Divinópolis
+3102001,310200,306,ALTEROSA,3108,Região Intermediária de Varginha
+3104106,310410,310,ARCEBURGO,3108,Região Intermediária de Varginha
+3114402,311440,338,CARMO DO RIO CLARO,3108,Região Intermediária de Varginha
+3117108,311710,345,CONCEIÇÃO DA APARECIDA,3108,Região Intermediária de Varginha
+3128303,312830,368,GUARANÉSIA,3108,Região Intermediária de Varginha
+3128709,312870,369,GUAXUPÉ,3108,Região Intermediária de Varginha
+3136900,313690,389,JURUAIA,3108,Região Intermediária de Varginha
+3143005,314300,399,MONTE BELO,3108,Região Intermediária de Varginha
+3144102,314410,403,MUZAMBINHO,3108,Região Intermediária de Varginha
+3145109,314510,406,NOVA RESENDE,3108,Região Intermediária de Varginha
+3163904,316390,433,SÃO PEDRO DA UNIÃO,3108,Região Intermediária de Varginha
+3133758,313375,383,ITAÚ DE MINAS,3108,Região Intermediária de Varginha
+3101904,310190,305,ALPINÓPOLIS,3108,Região Intermediária de Varginha
+3107604,310760,317,BOM JESUS DA PENHA,3108,Região Intermediária de Varginha
+3112406,311240,333,CAPETINGA,3108,Região Intermediária de Varginha
+3112802,311280,334,CAPITÓLIO,3108,Região Intermediária de Varginha
+3115102,311510,342,CÁSSIA,3108,Região Intermediária de Varginha
+3116407,311640,344,CLARAVAL,3108,Região Intermediária de Varginha
+3121209,312120,357,DELFINÓPOLIS,3108,Região Intermediária de Varginha
+3123403,312340,542,DORESÓPOLIS,3108,Região Intermediária de Varginha
+3126307,312630,365,FORTALEZA DE MINAS,3108,Região Intermediária de Varginha
+3128105,312810,367,GUAPÉ,3108,Região Intermediária de Varginha
+3129707,312970,371,IBIRACI,3108,Região Intermediária de Varginha
+3147907,314790,413,PASSOS,3108,Região Intermediária de Varginha
+3151503,315150,566,PIUMHI,3108,Região Intermediária de Varginha
+3162203,316220,428,SÃO JOÃO BATISTA DO GLÓRIA,3108,Região Intermediária de Varginha
+3162948,316294,430,SÃO JOSÉ DA BARRA,3108,Região Intermediária de Varginha
+3164308,316430,573,SÃO ROQUE DE MINAS,3108,Região Intermediária de Varginha
+3170602,317060,577,VARGEM BONITA,3108,Região Intermediária de Varginha
+3132909,313290,379,ITAMOGI,3108,Região Intermediária de Varginha
+3134806,313480,386,JACUÍ,3108,Região Intermediária de Varginha
+3143203,314320,400,MONTE SANTO DE MINAS,3108,Região Intermediária de Varginha
+3152907,315290,421,PRATÁPOLIS,3108,Região Intermediária de Varginha
+3164704,316470,435,SÃO SEBASTIÃO DO PARAÍSO,3108,Região Intermediária de Varginha
+3165107,316510,438,SÃO TOMÁS DE AQUINO,3108,Região Intermediária de Varginha
+3101607,310160,304,ALFENAS,3108,Região Intermediária de Varginha
+3104304,310430,311,AREADO,3108,Região Intermediária de Varginha
+3105301,310530,313,BANDEIRA DO SUL,3109,Região Intermediária de Pouso Alegre
+3108404,310840,320,BOTELHOS,3109,Região Intermediária de Pouso Alegre
+3109501,310950,323,CABO VERDE,3108,Região Intermediária de Varginha
+3111002,311100,330,CAMPESTRE,3109,Região Intermediária de Pouso Alegre
+3111309,311130,331,CAMPO DO MEIO,3108,Região Intermediária de Varginha
+3111606,311160,332,CAMPOS GERAIS,3108,Região Intermediária de Varginha
+3114709,311470,340,CARVALHÓPOLIS,3108,Região Intermediária de Varginha
+3122405,312240,358,DIVISA NOVA,3108,Região Intermediária de Varginha
+3125200,312520,364,FAMA,3108,Região Intermediária de Varginha
+3139003,313900,394,MACHADO,3108,Região Intermediária de Varginha
+3147204,314720,409,PARAGUAÇU,3108,Região Intermediária de Varginha
+3151701,315170,417,POÇO FUNDO,3108,Região Intermediária de Varginha
+3166907,316690,444,SERRANIA,3108,Região Intermediária de Varginha
+3108909,310890,321,BRAZÓPOLIS,3109,Região Intermediária de Pouso Alegre
+3117207,311720,346,CONCEIÇÃO DAS PEDRAS,3109,Região Intermediária de Pouso Alegre
+3118502,311850,350,CONSOLAÇÃO,3109,Região Intermediária de Pouso Alegre
+3121100,312110,356,DELFIM MOREIRA,3109,Região Intermediária de Pouso Alegre
+3127404,312740,366,GONÇALVES,3109,Região Intermediária de Pouso Alegre
+3139904,313990,395,MARIA DA FÉ,3109,Região Intermediária de Pouso Alegre
+3140407,314040,396,MARMELÓPOLIS,3109,Região Intermediária de Pouso Alegre
+3147303,314730,410,PARAISÓPOLIS,3109,Região Intermediária de Pouso Alegre
+3149101,314910,414,PEDRALVA,3109,Região Intermediária de Pouso Alegre
+3150901,315090,415,PIRANGUÇU,3109,Região Intermediária de Pouso Alegre
+3151008,315100,416,PIRANGUINHO,3109,Região Intermediária de Pouso Alegre
+3163201,316320,431,SÃO JOSÉ DO ALEGRE,3109,Região Intermediária de Pouso Alegre
+3165404,316540,440,SAPUCAÍ-MIRIM,3109,Região Intermediária de Pouso Alegre
+3172202,317220,455,WENCESLAU BRAZ,3109,Região Intermediária de Pouso Alegre
+3132404,313240,378,ITAJUBÁ,3109,Região Intermediária de Pouso Alegre
+3114600,311460,339,CARRANCAS,3108,Região Intermediária de Varginha
+3130408,313040,373,IJACI,3108,Região Intermediária de Varginha
+3130804,313080,376,INGAÍ,3108,Região Intermediária de Varginha
+3134301,313430,384,ITUMIRIM,3108,Região Intermediária de Varginha
+3134509,313450,385,ITUTINGA,3108,Região Intermediária de Varginha
+3138203,313820,391,LAVRAS,3108,Região Intermediária de Varginha
+3138708,313870,393,LUMINÁRIAS,3108,Região Intermediária de Varginha
+3144607,314460,405,NEPOMUCENO,3108,Região Intermediária de Varginha
+3149903,314990,563,PERDÕES,3108,Região Intermediária de Varginha
+3154705,315470,422,RIBEIRÃO VERMELHO,3108,Região Intermediária de Varginha
+3102605,310260,307,ANDRADAS,3109,Região Intermediária de Pouso Alegre
+3110301,311030,325,CALDAS,3109,Região Intermediária de Pouso Alegre
+3129905,312990,372,IBITIÚRA DE MINAS,3109,Região Intermediária de Pouso Alegre
+3151800,315180,418,POÇOS DE CALDAS,3109,Região Intermediária de Pouso Alegre
+3159209,315920,423,SANTA RITA DE CALDAS,3109,Região Intermediária de Pouso Alegre
+3101409,310140,303,ALBERTINA,3109,Região Intermediária de Pouso Alegre
+3107901,310790,318,BOM REPOUSO,3109,Região Intermediária de Pouso Alegre
+3108305,310830,319,BORDA DA MATA,3109,Região Intermediária de Pouso Alegre
+3109105,310910,322,BUENO BRANDÃO,3109,Região Intermediária de Pouso Alegre
+3109709,310970,324,CACHOEIRA DE MINAS,3109,Região Intermediária de Pouso Alegre
+3110509,311050,326,CAMANDUCAIA,3109,Região Intermediária de Pouso Alegre
+3110608,311060,327,CAMBUÍ,3109,Região Intermediária de Pouso Alegre
+3113602,311360,335,CAREAÇU,3109,Região Intermediária de Pouso Alegre
+3117801,311780,348,CONCEIÇÃO DOS OUROS,3109,Região Intermediária de Pouso Alegre
+3117900,311790,349,CONGONHAL,3109,Região Intermediária de Pouso Alegre
+3119906,311990,353,CÓRREGO DO BOM JESUS,3109,Região Intermediária de Pouso Alegre
+3124401,312440,361,ESPÍRITO SANTO DO DOURADO,3109,Região Intermediária de Pouso Alegre
+3124500,312450,362,ESTIVA,3109,Região Intermediária de Pouso Alegre
+3125101,312510,363,EXTREMA,3109,Região Intermediária de Pouso Alegre
+3129202,312920,370,HELIODORA,3109,Região Intermediária de Pouso Alegre
+3130606,313060,375,INCONFIDENTES,3109,Região Intermediária de Pouso Alegre
+3131505,313150,377,IPUIÚNA,3109,Região Intermediária de Pouso Alegre
+3133600,313360,382,ITAPEVA,3109,Região Intermediária de Pouso Alegre
+3134905,313490,387,JACUTINGA,3109,Região Intermediária de Pouso Alegre
+3143401,314340,401,MONTE SIÃO,3109,Região Intermediária de Pouso Alegre
+3143807,314380,402,MUNHOZ,3109,Região Intermediária de Pouso Alegre
+3144409,314440,404,NATÉRCIA,3109,Região Intermediária de Pouso Alegre
+3146008,314600,408,OURO FINO,3109,Região Intermediária de Pouso Alegre
+3152501,315250,419,POUSO ALEGRE,3109,Região Intermediária de Pouso Alegre
+3159605,315960,424,SANTA RITA DO SAPUCAÍ,3109,Região Intermediária de Pouso Alegre
+3162302,316230,429,SÃO JOÃO DA MATA,3109,Região Intermediária de Pouso Alegre
+3164407,316440,434,SÃO SEBASTIÃO DA BELA VISTA,3109,Região Intermediária de Pouso Alegre
+3165578,316557,441,SENADOR AMARAL,3109,Região Intermediária de Pouso Alegre
+3165800,316580,442,SENADOR JOSÉ BENTO,3109,Região Intermediária de Pouso Alegre
+3167400,316740,446,SILVIANÓPOLIS,3109,Região Intermediária de Pouso Alegre
+3169059,316905,448,TOCOS DO MOJI,3109,Região Intermediária de Pouso Alegre
+3169109,316910,449,TOLEDO,3109,Região Intermediária de Pouso Alegre
+3169802,316980,452,TURVOLÂNDIA,3109,Região Intermediária de Pouso Alegre
+3101201,310120,301,AIURUOCA,3109,Região Intermediária de Pouso Alegre
+3101300,310130,302,ALAGOA,3109,Região Intermediária de Pouso Alegre
+3104908,310490,312,BAEPENDI,3109,Região Intermediária de Pouso Alegre
+3114105,311410,337,CARMO DE MINAS,3109,Região Intermediária de Pouso Alegre
+3114808,311480,341,CARVALHOS,3109,Região Intermediária de Pouso Alegre
+3115508,311550,343,CAXAMBU,3109,Região Intermediária de Pouso Alegre
+3117702,311770,347,CONCEIÇÃO DO RIO VERDE,3109,Região Intermediária de Pouso Alegre
+3120508,312050,354,CRISTINA,3109,Região Intermediária de Pouso Alegre
+3120805,312080,355,CRUZÍLIA,3109,Região Intermediária de Pouso Alegre
+3122801,312280,359,DOM VIÇOSO,3109,Região Intermediária de Pouso Alegre
+3133006,313300,380,ITAMONTE,3109,Região Intermediária de Pouso Alegre
+3133105,313310,381,ITANHANDU,3109,Região Intermediária de Pouso Alegre
+3135902,313590,388,JESUÂNIA,3109,Região Intermediária de Pouso Alegre
+3137809,313780,390,LAMBARI,3109,Região Intermediária de Pouso Alegre
+3141900,314190,397,MINDURI,3109,Região Intermediária de Pouso Alegre
+3145505,314550,407,OLÍMPIO NORONHA,3109,Região Intermediária de Pouso Alegre
+3147600,314760,411,PASSA QUATRO,3109,Região Intermediária de Pouso Alegre
+3152600,315260,420,POUSO ALTO,3109,Região Intermediária de Pouso Alegre
+3163706,316370,432,SÃO LOURENÇO,3109,Região Intermediária de Pouso Alegre
+3164902,316490,436,SÃO SEBASTIÃO DO RIO VERDE,3109,Região Intermediária de Pouso Alegre
+3166402,316640,443,SERITINGA,3109,Região Intermediária de Pouso Alegre
+3167004,316700,445,SERRANOS,3109,Região Intermediária de Pouso Alegre
+3167806,316780,447,SOLEDADE DE MINAS,3109,Região Intermediária de Pouso Alegre
+3171709,317170,454,VIRGÍNIA,3109,Região Intermediária de Pouso Alegre
+3110707,311070,328,CAMBUQUIRA,3108,Região Intermediária de Varginha
+3110905,311090,329,CAMPANHA,3108,Região Intermediária de Varginha
+3113909,311390,336,CARMO DA CACHOEIRA,3108,Região Intermediária de Varginha
+3160801,316080,426,SÃO BENTO ABADE,3108,Região Intermediária de Varginha
+3165206,316520,437,SÃO TOMÉ DAS LETRAS,3108,Região Intermediária de Varginha
+3169307,316930,450,TRÊS CORAÇÕES,3108,Região Intermediária de Varginha
+3107109,310710,314,BOA ESPERANÇA,3108,Região Intermediária de Varginha
+3118700,311870,351,COQUEIRAL,3108,Região Intermediária de Varginha
+3130507,313050,374,ILICÍNEA,3108,Região Intermediária de Varginha
+3158300,315830,425,SANTANA DA VARGEM,3108,Região Intermediária de Varginha
+3169406,316940,451,TRÊS PONTAS,3108,Região Intermediária de Varginha
+3119005,311900,352,CORDISLÂNDIA,3108,Região Intermediária de Varginha
+3123601,312360,360,ELÓI MENDES,3108,Região Intermediária de Varginha
+3142601,314260,398,MONSENHOR PAULO,3108,Região Intermediária de Varginha
+3162005,316200,427,SÃO GONÇALO DO SAPUCAÍ,3108,Região Intermediária de Varginha
+3170701,317070,453,VARGINHA,3108,Região Intermediária de Varginha
+3109808,310980,459,CACHOEIRA DOURADA,3111,Região Intermediária de Uberlândia
+3111101,311110,460,CAMPINA VERDE,3111,Região Intermediária de Uberlândia
+3111804,311180,462,CANÁPOLIS,3111,Região Intermediária de Uberlândia
+3112604,311260,463,CAPINÓPOLIS,3111,Região Intermediária de Uberlândia
+3115805,311580,466,CENTRALINA,3111,Região Intermediária de Uberlândia
+3129103,312910,473,GURINHATÃ,3111,Região Intermediária de Uberlândia
+3131406,313140,475,IPIAÇU,3111,Região Intermediária de Uberlândia
+3134202,313420,477,ITUIUTABA,3111,Região Intermediária de Uberlândia
+3159803,315980,484,SANTA VITÓRIA,3111,Região Intermediária de Uberlândia
+3100104,310010,491,ABADIA DOS DOURADOS,3111,Região Intermediária de Uberlândia
+3119302,311930,496,COROMANDEL,3112,Região Intermediária de Patos de Minas
+3120706,312070,497,CRUZEIRO DA FORTALEZA,3112,Região Intermediária de Patos de Minas
+3123502,312350,498,DOURADOQUARA,3111,Região Intermediária de Uberlândia
+3124807,312480,499,ESTRELA DO SUL,3111,Região Intermediária de Uberlândia
+3127909,312790,500,GRUPIARA,3111,Região Intermediária de Uberlândia
+3128907,312890,501,GUIMARÂNIA,3112,Região Intermediária de Patos de Minas
+3131604,313160,503,IRAÍ DE MINAS,3111,Região Intermediária de Uberlândia
+3143104,314310,506,MONTE CARMELO,3111,Região Intermediária de Uberlândia
+3148103,314810,509,PATROCÍNIO,3112,Região Intermediária de Patos de Minas
+3156403,315640,514,ROMARIA,3111,Região Intermediária de Uberlândia
+3166808,316680,519,SERRA DO SALITRE,3112,Região Intermediária de Patos de Minas
+3103504,310350,457,ARAGUARI,3111,Região Intermediária de Uberlândia
+3103751,310375,458,ARAPORÃ,3111,Região Intermediária de Uberlândia
+3115003,311500,465,CASCALHO RICO,3111,Região Intermediária de Uberlândia
+3130705,313070,474,INDIANÓPOLIS,3111,Região Intermediária de Uberlândia
+3142809,314280,480,MONTE ALEGRE DE MINAS,3111,Região Intermediária de Uberlândia
+3145000,314500,507,NOVA PONTE,3110,Região Intermediária de Uberaba
+3152808,315280,483,PRATA,3111,Região Intermediária de Uberlândia
+3169604,316960,486,TUPACIGUARA,3111,Região Intermediária de Uberlândia
+3170206,317020,488,UBERLÂNDIA,3111,Região Intermediária de Uberlândia
+3104007,310400,493,ARAXÁ,3110,Região Intermediária de Uberaba
+3111507,311150,494,CAMPOS ALTOS,3110,Região Intermediária de Uberaba
+3129509,312950,502,IBIÁ,3110,Região Intermediária de Uberaba
+3149200,314920,510,PEDRINÓPOLIS,3110,Região Intermediária de Uberaba
+3149804,314980,511,PERDIZES,3110,Região Intermediária de Uberaba
+3153004,315300,512,PRATINHA,3110,Região Intermediária de Uberaba
+3157708,315770,516,SANTA JULIANA,3110,Região Intermediária de Uberaba
+3168101,316810,520,TAPIRA,3110,Região Intermediária de Uberaba
+3114550,311455,464,CARNEIRINHO,3110,Região Intermediária de Uberaba
+3116902,311690,467,COMENDADOR GOMES,3110,Região Intermediária de Uberaba
+3127008,312700,471,FRONTEIRA,3110,Região Intermediária de Uberaba
+3127107,312710,472,FRUTAL,3110,Região Intermediária de Uberaba
+3133402,313340,476,ITAPAGIPE,3110,Região Intermediária de Uberaba
+3134400,313440,478,ITURAMA,3110,Região Intermediária de Uberaba
+3138625,313862,479,LIMEIRA DO OESTE,3110,Região Intermediária de Uberaba
+3150703,315070,481,PIRAJUBA,3110,Região Intermediária de Uberaba
+3151602,315160,482,PLANURA,3110,Região Intermediária de Uberaba
+3161304,316130,485,SÃO FRANCISCO DE SALES,3110,Região Intermediária de Uberaba
+3170438,317043,489,UNIÃO DE MINAS,3110,Região Intermediária de Uberaba
+3100708,310070,456,ÁGUA COMPRIDA,3110,Região Intermediária de Uberaba
+3111408,311140,461,CAMPO FLORIDO,3110,Região Intermediária de Uberaba
+3117306,311730,468,CONCEIÇÃO DAS ALAGOAS,3110,Região Intermediária de Uberaba
+3118205,311820,469,CONQUISTA,3110,Região Intermediária de Uberaba
+3121258,312125,470,DELTA,3110,Região Intermediária de Uberaba
+3156908,315690,515,SACRAMENTO,3110,Região Intermediária de Uberaba
+3170107,317010,487,UBERABA,3110,Região Intermediária de Uberaba
+3171105,317110,490,VERÍSSIMO,3110,Região Intermediária de Uberaba
+3107802,310780,759,BOM JESUS DO GALHO,3105,Região Intermediária de Ipatinga
+3113404,311340,765,CARATINGA,3105,Região Intermediária de Ipatinga
+3123858,312385,780,ENTRE FOLHAS,3105,Região Intermediária de Ipatinga
+3130556,313055,790,IMBÉ DE MINAS,3105,Região Intermediária de Ipatinga
+3130903,313090,791,INHAPIM,3105,Região Intermediária de Ipatinga
+3150158,315015,819,PIEDADE DE CARATINGA,3105,Região Intermediária de Ipatinga
+3157252,315725,824,SANTA BÁRBARA DO LESTE,3105,Região Intermediária de Ipatinga
+3159357,315935,827,SANTA RITA DE MINAS,3105,Região Intermediária de Ipatinga
+3160959,316095,830,SÃO DOMINGOS DAS DORES,3105,Região Intermediária de Ipatinga
+3164472,316447,841,SÃO SEBASTIÃO DO ANTA,3105,Região Intermediária de Ipatinga
+3170057,317005,850,UBAPORANGA,3105,Região Intermediária de Ipatinga
+3170578,317057,851,VARGEM ALEGRE,3105,Região Intermediária de Ipatinga
+3103009,310300,757,ANTÔNIO DIAS,3105,Região Intermediária de Ipatinga
+3119401,311940,772,CORONEL FABRICIANO,3105,Região Intermediária de Ipatinga
+3120003,312000,773,CÓRREGO NOVO,3105,Região Intermediária de Ipatinga
+3135001,313500,799,JAGUARAÇU,3105,Região Intermediária de Ipatinga
+3140308,314030,805,MARLIÉRIA,3105,Região Intermediária de Ipatinga
+3150539,315053,820,PINGO-D ÁGUA,3105,Região Intermediária de Ipatinga
+3168705,316870,848,TIMÓTEO,3105,Região Intermediária de Ipatinga
+3100500,310050,752,AÇUCENA,3105,Região Intermediária de Ipatinga
+3106309,310630,758,BELO ORIENTE,3105,Região Intermediária de Ipatinga
+3108800,310880,760,BRAÚNAS,3105,Região Intermediária de Ipatinga
+3109253,310925,761,BUGRE,3105,Região Intermediária de Ipatinga
+3122504,312250,777,DOM CAVATI,3105,Região Intermediária de Ipatinga
+3123106,312310,778,DORES DE GUANHÃES,3104,Região Intermediária de Governador Valadares
+3129301,312930,789,IAPU,3105,Região Intermediária de Ipatinga
+3131158,313115,792,IPABA,3105,Região Intermediária de Ipatinga
+3131307,313130,794,IPATINGA,3105,Região Intermediária de Ipatinga
+3136108,313610,801,JOANÉSIA,3105,Região Intermediária de Ipatinga
+3141702,314170,809,MESQUITA,3105,Região Intermediária de Ipatinga
+3144359,314435,812,NAQUE,3105,Região Intermediária de Ipatinga
+3149952,314995,817,PERIQUITO,3105,Região Intermediária de Ipatinga
+3158953,315895,829,SANTANA DO PARAÍSO,3105,Região Intermediária de Ipatinga
+3162609,316260,835,SÃO JOÃO DO ORIENTE,3105,Região Intermediária de Ipatinga
+3101805,310180,755,ALPERCATA,3104,Região Intermediária de Governador Valadares
+3112653,311265,764,CAPITÃO ANDRADE,3104,Região Intermediária de Governador Valadares
+3119203,311920,771,COROACI,3104,Região Intermediária de Governador Valadares
+3123700,312370,779,ENGENHEIRO CALDAS,3104,Região Intermediária de Governador Valadares
+3125804,312580,781,FERNANDES TOURINHO,3104,Região Intermediária de Governador Valadares
+3126901,312690,782,FREI INOCÊNCIO,3104,Região Intermediária de Governador Valadares
+3127305,312730,784,GALILÉIA,3104,Região Intermediária de Governador Valadares
+3127503,312750,786,GONZAGA,3104,Região Intermediária de Governador Valadares
+3127701,312770,787,GOVERNADOR VALADARES,3104,Região Intermediária de Governador Valadares
+3133204,313320,797,ITANHOMI,3104,Região Intermediária de Governador Valadares
+3135076,313507,800,JAMPRUCA,3104,Região Intermediária de Governador Valadares
+3140100,314010,804,MARILAC,3104,Região Intermediária de Governador Valadares
+3171501,317150,807,MATHIAS LOBATO,3104,Região Intermediária de Governador Valadares
+3144201,314420,811,NACIP RAYDAN,3104,Região Intermediária de Governador Valadares
+3157500,315750,825,SANTA EFIGÊNIA DE MINAS,3104,Região Intermediária de Governador Valadares
+3161601,316160,832,SÃO GERALDO DA PIEDADE,3104,Região Intermediária de Governador Valadares
+3161650,316165,833,SÃO GERALDO DO BAIXIO,3104,Região Intermediária de Governador Valadares
+3163003,316300,837,SÃO JOSÉ DA SAFIRA,3104,Região Intermediária de Governador Valadares
+3165503,316550,843,SARDOÁ,3104,Região Intermediária de Governador Valadares
+3167707,316770,845,SOBRÁLIA,3104,Região Intermediária de Governador Valadares
+3168408,316840,847,TARUMIRIM,3104,Região Intermediária de Governador Valadares
+3169505,316950,849,TUMIRITINGA,3104,Região Intermediária de Governador Valadares
+3171808,317180,852,VIRGINÓPOLIS,3104,Região Intermediária de Governador Valadares
+3171907,317190,853,VIRGOLÂNDIA,3104,Região Intermediária de Governador Valadares
+3115706,311570,767,CENTRAL DE MINAS,3104,Região Intermediária de Governador Valadares
+3122108,312210,775,DIVINO DAS LARANJEIRAS,3104,Região Intermediária de Governador Valadares
+3131802,313180,795,ITABIRINHA,3104,Região Intermediária de Governador Valadares
+3139607,313960,803,MANTENA,3104,Região Intermediária de Governador Valadares
+3141504,314150,808,MENDES PIMENTEL,3104,Região Intermediária de Governador Valadares
+3144672,314467,813,NOVA BELÉM,3104,Região Intermediária de Governador Valadares
+3161056,316105,831,SÃO FÉLIX DE MINAS,3104,Região Intermediária de Governador Valadares
+3162575,316257,834,SÃO JOÃO DO MANTENINHA,3104,Região Intermediária de Governador Valadares
+3101102,310110,754,AIMORÉS,3104,Região Intermediária de Governador Valadares
+3102209,310220,756,ALVARENGA,3105,Região Intermediária de Ipatinga
+3118403,311840,770,CONSELHEIRO PENA,3104,Região Intermediária de Governador Valadares
+3120839,312083,774,CUPARAQUE,3104,Região Intermediária de Governador Valadares
+3127370,312737,785,GOIABEIRA,3104,Região Intermediária de Governador Valadares
+3134103,313410,798,ITUETA,3104,Região Intermediária de Governador Valadares
+3154309,315430,822,RESPLENDOR,3104,Região Intermediária de Governador Valadares
+3159506,315950,828,SANTA RITA DO ITUETO,3104,Região Intermediária de Governador Valadares
+3100609,310060,753,ÁGUA BOA,3103,Região Intermediária de Teófilo Otoni
+3112059,311205,763,CANTAGALO,3104,Região Intermediária de Governador Valadares
+3122207,312220,776,DIVINOLÂNDIA DE MINAS,3104,Região Intermediária de Governador Valadares
+3126950,312695,783,FREI LAGONEGRO,3104,Região Intermediária de Governador Valadares
+3128006,312800,788,GUANHÃES,3104,Região Intermediária de Governador Valadares
+3136553,313655,802,JOSÉ RAYDAN,3104,Região Intermediária de Governador Valadares
+3148400,314840,815,PAULISTAS,3104,Região Intermediária de Governador Valadares
+3148608,314860,816,PEÇANHA,3104,Região Intermediária de Governador Valadares
+3156809,315680,823,SABINÓPOLIS,3104,Região Intermediária de Governador Valadares
+3158201,315820,826,SANTA MARIA DO SUAÇUÍ,3104,Região Intermediária de Governador Valadares
+3162807,316280,836,SÃO JOÃO EVANGELISTA,3104,Região Intermediária de Governador Valadares
+3163508,316350,839,SÃO JOSÉ DO JACURI,3104,Região Intermediária de Governador Valadares
+3164100,316410,840,SÃO PEDRO DO SUAÇUÍ,3104,Região Intermediária de Governador Valadares
+3164506,316450,842,SÃO SEBASTIÃO DO MARANHÃO,3104,Região Intermediária de Governador Valadares
+3166105,316610,844,SENHORA DO PORTO,3104,Região Intermediária de Governador Valadares
+3101631,310163,2,ALFREDO VASCONCELOS,3107,Região Intermediária de Barbacena
+3102100,310210,164,ALTO RIO DOCE,3107,Região Intermediária de Barbacena
+3102902,310290,5,ANTÔNIO CARLOS,3107,Região Intermediária de Barbacena
+3105608,310560,10,BARBACENA,3107,Região Intermediária de Barbacena
+3112208,311220,24,CAPELA NOVA,3107,Região Intermediária de Barbacena
+3113206,311320,27,CARANDAÍ,3107,Região Intermediária de Barbacena
+3116308,311630,187,CIPOTÂNEA,3107,Região Intermediária de Barbacena
+3121506,312150,48,DESTERRO DO MELO,3107,Região Intermediária de Barbacena
+3129400,312940,63,IBERTIOGA,3107,Região Intermediária de Barbacena
+3146602,314660,234,PAIVA,3106,Região Intermediária de Juíz de Fora
+3154408,315440,118,RESSAQUINHA,3107,Região Intermediária de Barbacena
+3157302,315730,127,SANTA BÁRBARA DO TUGÚRIO,3107,Região Intermediária de Barbacena
+3159407,315940,266,SANTA RITA DE IBITIPOCA,3107,Região Intermediária de Barbacena
+3158706,315870,132,SANTANA DO GARAMBÉU,3107,Região Intermediária de Barbacena
+3166204,316620,151,SENHORA DOS REMÉDIOS,3107,Região Intermediária de Barbacena
+3113107,311310,26,CARANAÍBA,3107,Região Intermediária de Barbacena
+3114907,311490,28,CASA GRANDE,3107,Região Intermediária de Barbacena
+3115409,311540,30,CATAS ALTAS DA NORUEGA,3107,Região Intermediária de Barbacena
+3118007,311800,35,CONGONHAS,3107,Região Intermediária de Barbacena
+3118304,311830,37,CONSELHEIRO LAFAIETE,3107,Região Intermediária de Barbacena
+3120409,312040,43,CRISTIANO OTONI,3107,Região Intermediária de Barbacena
+3121407,312140,47,DESTERRO DE ENTRE RIOS,3107,Região Intermediária de Barbacena
+3123908,312390,54,ENTRE RIOS DE MINAS,3107,Região Intermediária de Barbacena
+3135407,313540,75,JECEABA,3107,Região Intermediária de Barbacena
+3137908,313790,214,LAMIM,3107,Região Intermediária de Barbacena
+3145901,314590,98,OURO BRANCO,3107,Região Intermediária de Barbacena
+3150802,315080,245,PIRANGA,3107,Região Intermediária de Barbacena
+3153806,315380,115,QUELUZITO,3107,Região Intermediária de Barbacena
+3155207,315520,256,RIO ESPERA,3107,Região Intermediária de Barbacena
+3159100,315910,134,SANTANA DOS MONTES,3107,Região Intermediária de Barbacena
+3160900,316090,138,SÃO BRÁS DO SUAÇUÍ,3107,Região Intermediária de Barbacena
+3166006,316600,285,SENHORA DE OLIVEIRA,3107,Região Intermediária de Barbacena
+3133907,313390,73,ITAVERAVA,3107,Região Intermediária de Barbacena
+3105905,310590,11,BARROSO,3107,Região Intermediária de Barbacena
+3115201,311520,32,CONCEIÇÃO DA BARRA DE MINAS,3107,Região Intermediária de Barbacena
+3119708,311970,41,CORONEL XAVIER CHAVES,3107,Região Intermediária de Barbacena
+3123007,312300,53,DORES DE CAMPOS,3107,Região Intermediária de Barbacena
+3130002,313000,545,IBITURUNA,3108,Região Intermediária de Varginha
+3137403,313740,80,LAGOA DOURADA,3107,Região Intermediária de Barbacena
+3139102,313910,82,MADRE DE DEUS DE MINAS,3107,Região Intermediária de Barbacena
+3144508,314450,93,NAZARENO,3107,Região Intermediária de Barbacena
+3150307,315030,107,PIEDADE DO RIO GRANDE,3107,Região Intermediária de Barbacena
+3152709,315270,111,PRADOS,3107,Região Intermediária de Barbacena
+3154200,315420,117,RESENDE COSTA,3107,Região Intermediária de Barbacena
+3156106,315610,124,RITÁPOLIS,3107,Região Intermediária de Barbacena
+3157336,315733,128,SANTA CRUZ DE MINAS,3107,Região Intermediária de Barbacena
+3162500,316250,142,SÃO JOÃO DEL REI,3107,Região Intermediária de Barbacena
+3165008,316500,148,SÃO TIAGO,3107,Região Intermediária de Barbacena
+3165305,316530,439,SÃO VICENTE DE MINAS,3107,Região Intermediária de Barbacena
+3168804,316880,156,TIRADENTES,3107,Região Intermediária de Barbacena
+3199999,319999,999,DIVERSOS MUNICÍPIOS - ESTADUAL,3199,Estadual
+3199907,,860,DIVERSOS MUNICÍPIOS - REGIÃO INTERMEDIÁRIA DE BARBACENA,3107,Região Intermediária de Barbacena
+3199901,,854,DIVERSOS MUNICÍPIOS - REGIÃO INTERMEDIÁRIA DE BELO HORIZONTE,3101,Região Intermediária de Belo Horizonte
+3199913,,866,DIVERSOS MUNICÍPIOS - REGIÃO INTERMEDIÁRIA DE DIVINÓPOLIS,3113,Região Intermediária de Divinópolis
+3199904,,857,DIVERSOS MUNICÍPIOS - REGIÃO INTERMEDIÁRIA DE GOVERNADOR VALADARES,3104,Região Intermediária de Governador Valadares
+3199905,,858,DIVERSOS MUNICÍPIOS - REGIÃO INTERMEDIÁRIA DE IPATINGA,3105,Região Intermediária de Ipatinga
+3199906,,859,DIVERSOS MUNICÍPIOS - REGIÃO INTERMEDIÁRIA DE JUÍZ DE FORA,3106,Região Intermediária de Juíz de Fora
+3199902,,855,DIVERSOS MUNICÍPIOS - REGIÃO INTERMEDIÁRIA DE MONTES CLAROS,3102,Região Intermediária de Montes Claros
+3199912,,865,DIVERSOS MUNICÍPIOS - REGIÃO INTERMEDIÁRIA DE PATOS DE MINAS,3112,Região Intermediária de Patos de Minas
+3199909,,862,DIVERSOS MUNICÍPIOS - REGIÃO INTERMEDIÁRIA DE POUSO ALEGRE,3109,Região Intermediária de Pouso Alegre
+3199903,,856,DIVERSOS MUNICÍPIOS - REGIÃO INTERMEDIÁRIA DE TEÓFILO OTONI,3103,Região Intermediária de Teófilo Otoni
+3199910,,863,DIVERSOS MUNICÍPIOS - REGIÃO INTERMEDIÁRIA DE UBERABA,3110,Região Intermediária de Uberaba
+3199911,,864,DIVERSOS MUNICÍPIOS - REGIÃO INTERMEDIÁRIA DE UBERLÂNDIA,3111,Região Intermediária de Uberlândia
+3199908,,861,DIVERSOS MUNICÍPIOS - REGIÃO INTERMEDIÁRIA DE VARGINHA,3108,Região Intermediária de Varginha
