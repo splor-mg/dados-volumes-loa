@@ -1,329 +1,658 @@
 {
   "name": "volumes-loa-dados",
+  "profile": "tabular-data-package",
   "resources": [
     {
       "name": "exec_desp_realizada",
       "type": "table",
-      "path": "data-raw/exec_desp_realizada.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/exec_desp_realizada.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:fd6d7d9aab775edcd72cb75898f816daf89b2518c4945114582786a80e7330b7",
-      "bytes": 7023027,
+      "hash": "sha256:d9abad01398927459e1c222791a83c56a55d3f6252dfbd3bbc29c45af8a6457d",
+      "bytes": 6394775,
       "fields": 20,
       "rows": 78245,
-      "schema": "schemas/exec_desp_realizada.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/exec_desp_realizada.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "integer",
+            "source": "ANO"
+          },
+          {
+            "name": "mes_cod",
+            "type": "integer",
+            "source": "MES_COD"
+          },
+          {
+            "name": "uo_cod",
+            "type": "integer",
+            "source": "UO_COD"
+          },
+          {
+            "name": "funcao_cod",
+            "type": "integer",
+            "source": "FUNCAO_COD"
+          },
+          {
+            "name": "subfuncao_cod",
+            "type": "integer",
+            "source": "SUBFUNCAO_COD"
+          },
+          {
+            "name": "programa_cod",
+            "type": "integer",
+            "source": "PROGRAMA_COD"
+          },
+          {
+            "name": "acao_cod",
+            "type": "integer",
+            "source": "ACAO_COD"
+          },
+          {
+            "name": "categoria_cod",
+            "type": "integer",
+            "source": "CATEGORIA_COD"
+          },
+          {
+            "name": "grupo_cod",
+            "type": "integer",
+            "source": "GRUPO_COD"
+          },
+          {
+            "name": "modalidade_cod",
+            "type": "integer",
+            "source": "MODALIDADE_COD"
+          },
+          {
+            "name": "elemento_cod",
+            "type": "integer",
+            "source": "ELEMENTO_COD"
+          },
+          {
+            "name": "item_cod",
+            "type": "integer",
+            "source": "ITEM_COD"
+          },
+          {
+            "name": "elemento_item_cod",
+            "type": "integer",
+            "source": "ELEMENTO_ITEM_COD"
+          },
+          {
+            "name": "ipg_cod",
+            "type": "integer",
+            "source": "IPG_COD"
+          },
+          {
+            "name": "fonte_cod",
+            "type": "integer",
+            "source": "FONTE_COD"
+          },
+          {
+            "name": "ipu_cod",
+            "type": "integer",
+            "source": "IPU_COD"
+          },
+          {
+            "name": "vl_emp",
+            "type": "number",
+            "source": "VL_EMP"
+          },
+          {
+            "name": "vl_liq",
+            "type": "number",
+            "source": "VL_LIQ"
+          },
+          {
+            "name": "vl_desp_realizada",
+            "type": "number",
+            "source": "VL_DESP_REALIZADA"
+          },
+          {
+            "name": "vl_pago_fin",
+            "type": "number",
+            "source": "VL_PAGO_FIN"
+          }
+        ]
       }
     },
     {
       "name": "exec_rec",
       "type": "table",
-      "path": "data-raw/exec_rec.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/exec_rec.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:687af639bd299f75d999530edd01167bacb442729a2572460dcb1280ccc8fc69",
-      "bytes": 263359,
+      "hash": "sha256:a107ad066338b45febcf7f93782d612a59b1d09748e481b0b6461352cf0a85b9",
+      "bytes": 619610,
       "fields": 7,
       "rows": 6235,
-      "schema": "schemas/exec_rec.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/exec_rec.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "integer",
+            "source": "ANO"
+          },
+          {
+            "name": "mes_cod",
+            "type": "integer",
+            "source": "MES_COD"
+          },
+          {
+            "name": "uo_cod",
+            "type": "integer",
+            "source": "UO_COD"
+          },
+          {
+            "name": "fonte_cod",
+            "type": "integer",
+            "source": "FONTE_COD"
+          },
+          {
+            "name": "receita_cod",
+            "type": "integer",
+            "source": "RECEITA_COD"
+          },
+          {
+            "name": "receita_desc",
+            "type": "string",
+            "source": "RECEITA_DESC"
+          },
+          {
+            "name": "vl_efet_ajust",
+            "type": "number",
+            "source": "VL_EFET_AJUST"
+          }
+        ]
       }
     },
     {
       "name": "ffp_acoes",
       "type": "table",
-      "path": "data-raw/FFP_acoes.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/ffp_acoes.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:a7a3501e5b2cf626df5abb69c2897b430af3c553482608e4efc41a0a6c119597",
-      "bytes": 19972,
+      "hash": "sha256:19a74e411dc1f7d7405df6ffeaf75aa378e7835780e3c3953da0b3c4d83c2a2a",
+      "bytes": 2782,
       "fields": 3,
       "rows": 57,
-      "schema": "schemas/ffp_acoes.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/FFP_acoes.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "cod_uo",
+            "type": "integer",
+            "source": "COD_UO"
+          },
+          {
+            "name": "acao",
+            "type": "integer",
+            "source": "ACAO"
+          },
+          {
+            "name": "descritivo_acao",
+            "type": "string",
+            "source": "DESCRITIVO_ACAO"
+          }
+        ]
       }
     },
     {
       "name": "nome_uo_antigas",
       "type": "table",
-      "path": "data-raw/Nome_UO_antigas.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/nome_uo_antigas.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:1b326fd3d4cddbcefd69c477de004beb7a5a40b00f346ae866f87d7d2a16aa69",
-      "bytes": 19608,
+      "hash": "sha256:0c90ffa679bdf1c7d33acf4d8928cf75b1a11af7ef671f4bc37b262c8ec6f02c",
+      "bytes": 303,
       "fields": 2,
       "rows": 4,
-      "schema": "schemas/nome_uo_antigas.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/Nome_UO_antigas.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "cod_uo",
+            "type": "integer",
+            "source": "cod_uo"
+          },
+          {
+            "name": "nome",
+            "type": "string",
+            "source": "nome"
+          }
+        ]
       }
     },
     {
       "name": "codigospoder",
       "type": "table",
-      "path": "data-raw/codigosPoder.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/codigospoder.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:f56ddad54ad50a9d50a0920b6c41ec5758136b67ca9ea93641bbb4827d5cd8b3",
-      "bytes": 20050,
+      "hash": "sha256:8f903da6934b2f19801f23223534d7b3d81b7e3fc4dbcda5ed146a4f467dfd89",
+      "bytes": 125,
       "fields": 2,
       "rows": 5,
-      "schema": "schemas/codigospoder.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/codigosPoder.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "cod_poder",
+            "type": "integer",
+            "source": "cod_poder"
+          },
+          {
+            "name": "poder",
+            "type": "string",
+            "source": "poder"
+          }
+        ]
       }
     },
     {
       "name": "correspondencia_mun_terr_desenvol",
       "type": "table",
-      "path": "data-raw/correspondencia_mun_terr_desenvol.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/correspondencia_mun_terr_desenvol.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:7bc47b8d15c00cd7a2c95b6d1bbb3f5caebc84b159f71b4d4396d222157c7489",
-      "bytes": 85063,
+      "hash": "sha256:8eaecf491ab8597045edf4cfd7bde17f372c54fd69e27470835c857908ed434f",
+      "bytes": 67950,
       "fields": 6,
       "rows": 867,
-      "schema": "schemas/correspondencia_mun_terr_desenvol.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/correspondencia_mun_terr_desenvol.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "cod7",
+            "type": "integer",
+            "source": "Cod7"
+          },
+          {
+            "name": "cod6",
+            "type": "integer",
+            "source": "Cod6"
+          },
+          {
+            "name": "cod_sigplan",
+            "type": "integer",
+            "source": "COD SIGPLAN"
+          },
+          {
+            "name": "municipios",
+            "type": "string",
+            "source": "Municípios"
+          },
+          {
+            "name": "codigo_regiao_geografica_intermediaria",
+            "type": "integer",
+            "source": "Código Região Geográfica Intermediária"
+          },
+          {
+            "name": "regiao_geografica_intermediaria",
+            "type": "string",
+            "source": "Região Geográfica Intermediária"
+          }
+        ]
       }
     },
     {
       "name": "desc_iag",
       "type": "table",
-      "path": "data-raw/desc_IAG.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/desc_iag.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:5492fd7e38aaaf44e7fb03c380fef87cce3e3ac1ef23c8139d3504306a14c6af",
-      "bytes": 19491,
+      "hash": "sha256:f0b995eeec5b4b94586d1e6d175c1c888075c6ee1f6ab1d73ce7287299ebe3ff",
+      "bytes": 78,
       "fields": 2,
       "rows": 2,
-      "schema": "schemas/desc_iag.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/desc_IAG.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "type": "integer",
+            "source": "CODIGO"
+          },
+          {
+            "name": "interpretacao",
+            "type": "string",
+            "source": "INTERPRETACAO"
+          }
+        ]
       }
     },
     {
       "name": "desc_ipu",
       "type": "table",
-      "path": "data-raw/desc_IPU.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/desc_ipu.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:5ba7dd7a985e5bcd00f6fbc5f93ea8b039d9788e1f0eae25660290ffac1cd292",
-      "bytes": 19899,
+      "hash": "sha256:ab5595b689bab5a880043514267041ed5c65709248a7f91100d63791df8b39f4",
+      "bytes": 738,
       "fields": 2,
       "rows": 10,
-      "schema": "schemas/desc_ipu.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/desc_IPU.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "type": "integer",
+            "source": "CODIGO"
+          },
+          {
+            "name": "especificacao",
+            "type": "string",
+            "source": "ESPECIFICACAO"
+          }
+        ]
       }
     },
     {
       "name": "desc_classificacao_economica_despesa",
       "type": "table",
-      "path": "data-raw/desc_classificacao_economica_despesa.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/desc_classificacao_economica_despesa.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:b21e5bad3e58cadcb07b1ad8006e01b7c4b365c9aaa180115feebe53b31d6403",
-      "bytes": 25974,
+      "hash": "sha256:797da2f9e9a01be149a539e9c0610887ce7c2fc2515eccd3a0272f08adb00698",
+      "bytes": 9951,
       "fields": 2,
       "rows": 213,
-      "schema": "schemas/desc_classificacao_economica_despesa.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/desc_classificacao_economica_despesa.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "type": "string",
+            "source": "codigo"
+          },
+          {
+            "name": "especificacao",
+            "type": "string",
+            "source": "especificacao"
+          }
+        ]
       }
     },
     {
       "name": "desc_classificacao_receita",
       "type": "table",
-      "path": "data-raw/desc_classificacao_receita.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/desc_classificacao_receita.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:fc1de96b386e6ba9a0f7452a323af6c713cb17590f5a0ede75d5b632969c3d2c",
-      "bytes": 132146,
+      "hash": "sha256:25194d5918df0d10728716d8492f2a33f1119fb5694e1feee8ce602e44ab0995",
+      "bytes": 345836,
       "fields": 3,
       "rows": 3752,
-      "schema": "schemas/desc_classificacao_receita.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/desc_classificacao_receita.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "receita_cod_2",
+            "type": "integer",
+            "source": "RECEITA_COD_2"
+          },
+          {
+            "name": "receita_desc_2",
+            "type": "string",
+            "source": "RECEITA_DESC_2"
+          },
+          {
+            "name": "receita_cod",
+            "type": "string",
+            "source": "RECEITA_COD"
+          }
+        ]
       }
     },
     {
       "name": "desc_fontes_de_recursos",
       "type": "table",
-      "path": "data-raw/desc_fontes_de_recursos.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/desc_fontes_de_recursos.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:26478df393cfcbd181f4fa206e3011da9fa8be4848eed46f420a7ece648a1ecf",
-      "bytes": 29122,
+      "hash": "sha256:db805159850a4c7d7b69cefd83d72c5be6f218fdd5d5d0e3b0b2adb47ac0c2a7",
+      "bytes": 27660,
       "fields": 3,
       "rows": 99,
-      "schema": "schemas/desc_fontes_de_recursos.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/desc_fontes_de_recursos.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "type": "integer",
+            "source": "CODIGO"
+          },
+          {
+            "name": "classificacao",
+            "type": "string",
+            "source": "CLASSIFICACAO"
+          },
+          {
+            "name": "interpretacao",
+            "type": "string",
+            "source": "INTERPRETACAO"
+          }
+        ]
       }
     },
     {
       "name": "desc_funcao",
       "type": "table",
-      "path": "data-raw/desc_funcao.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/desc_funcao.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:27e8e3174392c97040fec8984d15b62815252b4ae4e2a642ccf1c546554762b6",
-      "bytes": 21282,
+      "hash": "sha256:7fb456b48d726306e1d21f53e3370ee5f5b227a846126e6d63d8a13fa4881ef2",
+      "bytes": 575,
       "fields": 2,
       "rows": 29,
-      "schema": "schemas/desc_funcao.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/desc_funcao.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "type": "integer",
+            "source": "codigo"
+          },
+          {
+            "name": "funcao",
+            "type": "string",
+            "source": "funcao"
+          }
+        ]
       }
     },
     {
       "name": "desc_grupos_de_despesa",
       "type": "table",
-      "path": "data-raw/desc_grupos_de_despesa.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/desc_grupos_de_despesa.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:3806696261e111ea6be2600682642e319ac5f905606082cf780d74ce6a1dc20c",
-      "bytes": 20643,
+      "hash": "sha256:46782206a2efb6215eb4d8175b287c2a0ef4eb0d0ee63811f41d74fdc5c393f6",
+      "bytes": 2539,
       "fields": 3,
       "rows": 7,
-      "schema": "schemas/desc_grupos_de_despesa.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/desc_grupos_de_despesa.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "type": "integer",
+            "source": "CODIGO"
+          },
+          {
+            "name": "especificacao",
+            "type": "string",
+            "source": "ESPECIFICACAO"
+          },
+          {
+            "name": "interpretacao",
+            "type": "string",
+            "source": "INTERPRETACAO"
+          }
+        ]
       }
     },
     {
       "name": "desc_subfuncao",
       "type": "table",
-      "path": "data-raw/desc_subfuncao.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/desc_subfuncao.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:fff8e0f0e28faadef610009160a6fafcaf33c5b8dc406da9bf74f5656e440ccd",
-      "bytes": 23001,
+      "hash": "sha256:69cf37c5e07691df787f6a331179516bc6626e07036feac063b4e42b5a449c6b",
+      "bytes": 3285,
       "fields": 2,
       "rows": 110,
-      "schema": "schemas/desc_subfuncao.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/desc_subfuncao.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "type": "integer",
+            "source": "codigo"
+          },
+          {
+            "name": "subfuncao",
+            "type": "string",
+            "source": "subfuncao"
+          }
+        ]
       }
     },
     {
       "name": "memoria_calculo",
       "type": "table",
-      "path": "data-raw/memoria_calculo.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/memoria_calculo.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:23ea31bc6d3e111fa4328d7887d018dd5ef1966d4a30d6e7e90d1cc847537116",
-      "bytes": 26233,
+      "hash": "sha256:26af75ce7b74e96d4bc6778cbf13b55ee873afa12ab7600eb2e27abcbb1fce0f",
+      "bytes": 3567,
       "fields": 2,
       "rows": 59,
-      "schema": "schemas/memoria_calculo.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/memoria_calculo.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "acao_cod",
+            "type": "integer",
+            "source": "ACAO_COD"
+          },
+          {
+            "name": "acao_desc",
+            "type": "string",
+            "source": "ACAO_DESC"
+          }
+        ]
       }
     },
     {
       "name": "desc_base_legal_demonstrativos",
       "type": "table",
-      "path": "data-raw/desc_base_legal_demonstrativos.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/desc_base_legal_demonstrativos.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:24719daab3f5772e64748e057dcfb49bc913806cc0d6b7a306720216ed728a76",
-      "bytes": 22440,
+      "hash": "sha256:28d794cb08a36d54323ff531f864d2675fbc77e840834a6b9d8f38fbd9def8f0",
+      "bytes": 5479,
       "fields": 3,
       "rows": 28,
-      "schema": "schemas/desc_base_legal_demonstrativos.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/desc_base_legal_demonstrativos.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "cod",
+            "type": "string",
+            "source": "cod"
+          },
+          {
+            "name": "desc",
+            "type": "string",
+            "source": "desc"
+          },
+          {
+            "name": "legislacao",
+            "type": "string",
+            "source": "legislacao"
+          }
+        ]
       }
     },
     {
       "name": "desc_setor_governo",
       "type": "table",
-      "path": "data-raw/desc_setor_governo.xlsx",
+      "profile": "tabular-data-resource",
+      "path": "data/desc_setor_governo.csv",
       "scheme": "file",
-      "format": "xlsx",
-      "mediatype": "application/vnd.ms-excel",
+      "format": "csv",
+      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:d05546474ccddb3631e0128c84daf5817259998b241e7d07c6c1ecb0c9b2648f",
-      "bytes": 22451,
+      "hash": "sha256:0673f54e36e511d5ebb2126ac3014c0257ba7db11968d6d9c86f2420dcfd3806",
+      "bytes": 15535,
       "fields": 5,
       "rows": 115,
-      "schema": "schemas/desc_setor_governo.yaml",
-      "sharepoint": {
-        "path": "https://cecad365.sharepoint.com/sites/Splor/",
-        "drive": "Documentos",
-        "item": "General/@aid/loa2024/desc_Setor_UO_Orgao.xlsx"
+      "schema": {
+        "fields": [
+          {
+            "name": "uo_cod",
+            "type": "integer",
+            "source": "Cód. UO Ação"
+          },
+          {
+            "name": "uo_nome",
+            "type": "string",
+            "source": "UO Ação"
+          },
+          {
+            "name": "setor_governo_desc",
+            "type": "string",
+            "source": "Setor de Governo"
+          },
+          {
+            "name": "orgao_cod",
+            "type": "integer",
+            "source": "Cód Órgão"
+          },
+          {
+            "name": "orgao_nome",
+            "type": "string",
+            "source": "Descrição Órgão"
+          }
+        ]
       }
     }
   ],
-  "updated_at": "2024-01-03T19:09:39"
+  "updated_at": "2024-01-03T19:46:10"
 }
