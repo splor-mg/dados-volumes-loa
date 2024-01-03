@@ -304,7 +304,26 @@
         "drive": "Documentos",
         "item": "General/@aid/loa2024/desc_base_legal_demonstrativos.xlsx"
       }
+    },
+    {
+      "name": "desc_setor_governo",
+      "type": "table",
+      "path": "data-raw/desc_setor_governo.xlsx",
+      "scheme": "file",
+      "format": "xlsx",
+      "mediatype": "application/vnd.ms-excel",
+      "encoding": "utf-8",
+      "hash": "sha256:d05546474ccddb3631e0128c84daf5817259998b241e7d07c6c1ecb0c9b2648f",
+      "bytes": 22451,
+      "fields": 5,
+      "rows": 115,
+      "schema": "schemas/desc_setor_governo.yaml",
+      "sharepoint": {
+        "path": "https://cecad365.sharepoint.com/sites/Splor/",
+        "drive": "Documentos",
+        "item": "General/@aid/loa2024/desc_Setor_UO_Orgao.xlsx"
+      }
     }
   ],
-  "updated_at": "2023-09-26T18:47:58"
+  "updated_at": "2024-01-03T19:09:39"
 }

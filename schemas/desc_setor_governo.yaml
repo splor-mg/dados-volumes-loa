@@ -1,0 +1,11 @@
+fields:
+  - name: Cód. UO Ação
+    type: integer
+  - name: UO Ação
+    type: string
+  - name: Setor de Governo
+    type: string
+  - name: Cód Órgão
+    type: integer
+  - name: Descrição Órgão
+    type: string

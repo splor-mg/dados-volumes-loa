@@ -160,3 +160,13 @@ resources:
     format: xlsx
     encoding: utf-8
     schema: schemas/desc_base_legal_demonstrativos.yaml
+  - name: desc_setor_governo
+    path: data-raw/desc_setor_governo.xlsx
+    sharepoint:
+        path: https://cecad365.sharepoint.com/sites/Splor/
+        drive: Documentos
+        item: General/@aid/loa2024/desc_Setor_UO_Orgao.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/desc_setor_governo.yaml
