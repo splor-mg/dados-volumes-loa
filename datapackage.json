@@ -586,8 +586,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:28d794cb08a36d54323ff531f864d2675fbc77e840834a6b9d8f38fbd9def8f0",
-      "bytes": 5479,
+      "hash": "sha256:cc0121b42e626a26e6bbf5ab605b83bbe57b67dd6c94f14d2f12cf916c3535f0",
+      "bytes": 5481,
       "fields": 3,
       "rows": 28,
       "schema": {
@@ -654,5 +654,5 @@
       }
     }
   ],
-  "updated_at": "2024-01-19T18:09:42"
+  "updated_at": "2024-01-29T10:06:07"
 }
