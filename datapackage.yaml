@@ -35,7 +35,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/Splor/
         drive: Documentos
-        item: General/@aid/loa2024/Nome_UO_antigas.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/Nome_UO_antigas.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -45,7 +45,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/Splor/
         drive: Documentos
-        item: General/@aid/loa2024/codigosPoder.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/codigosPoder.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -155,7 +155,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/Splor/
         drive: Documentos
-        item: General/@aid/loa2024/desc_base_legal_demonstrativos.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/desc_base_legal_demonstrativos.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -165,7 +165,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/Splor/
         drive: Documentos
-        item: General/@aid/loa2024/desc_Setor_UO_Orgao.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/desc_Setor_UO_Orgao.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
