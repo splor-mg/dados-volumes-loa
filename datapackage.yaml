@@ -5,7 +5,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/exec_desp_realizada.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/exec_desp_realizada.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -15,7 +15,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/exec_rec.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/exec_rec.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -25,7 +25,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/FFP_acoes.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/FFP_acoes.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -35,7 +35,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/Splor/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/Nome_UO_antigas.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/Nome_UO_antigas.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -45,7 +45,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/Splor/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/codigosPoder.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/codigosPoder.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -55,7 +55,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/correspondencia_mun_terr_desenvol.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/correspondencia_mun_terr_desenvol.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -65,7 +65,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/desc_IAG.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/desc_IAG.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -75,7 +75,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/desc_IPU.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/desc_IPU.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -85,7 +85,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/desc_classificacao_economica_despesa.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/desc_classificacao_economica_despesa.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -95,7 +95,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/desc_classificacao_receita.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/desc_classificacao_receita.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -105,7 +105,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/desc_fontes_de_recursos.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/desc_fontes_de_recursos.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -115,7 +115,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/desc_funcao.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/desc_funcao.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -125,7 +125,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/desc_grupos_de_despesa.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/desc_grupos_de_despesa.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -135,7 +135,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/desc_subfuncao.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/desc_subfuncao.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -145,7 +145,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/memoria_calculo.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/memoria_calculo.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -155,7 +155,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/Splor/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/desc_base_legal_demonstrativos.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/desc_base_legal_demonstrativos.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -165,7 +165,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/Splor/
         drive: Documentos
-        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2024/desc_Setor_UO_Orgao.xlsx
+        item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/desc_Setor_UO_Orgao.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
