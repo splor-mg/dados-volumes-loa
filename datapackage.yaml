@@ -33,7 +33,7 @@ resources:
   - name: nome_uo_antigas
     path: data-raw/Nome_UO_antigas.xlsx
     sharepoint:
-        path: https://cecad365.sharepoint.com/sites/Splor/
+        path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
         item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/Nome_UO_antigas.xlsx
     scheme: file
@@ -43,7 +43,7 @@ resources:
   - name: codigospoder
     path: data-raw/codigosPoder.xlsx
     sharepoint:
-        path: https://cecad365.sharepoint.com/sites/Splor/
+        path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
         item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/codigosPoder.xlsx
     scheme: file
@@ -153,7 +153,7 @@ resources:
   - name: desc_base_legal_demonstrativos
     path: data-raw/desc_base_legal_demonstrativos.xlsx
     sharepoint:
-        path: https://cecad365.sharepoint.com/sites/Splor/
+        path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
         item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/desc_base_legal_demonstrativos.xlsx
     scheme: file
@@ -163,7 +163,7 @@ resources:
   - name: desc_setor_governo
     path: data-raw/desc_setor_governo.xlsx
     sharepoint:
-        path: https://cecad365.sharepoint.com/sites/Splor/
+        path: https://cecad365.sharepoint.com/sites/DCPPN/
         drive: Documentos
         item: General/DCPPN 2025/PPAG/material de apoio - gerar dos volumes/2025/desc_Setor_UO_Orgao.xlsx
     scheme: file
