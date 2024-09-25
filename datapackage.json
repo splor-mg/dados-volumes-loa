@@ -375,10 +375,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:797da2f9e9a01be149a539e9c0610887ce7c2fc2515eccd3a0272f08adb00698",
-      "bytes": 9951,
+      "hash": "sha256:64066200352d68e01af12d12d7949763bb6c1de9d45630e27cf30c459aa96fbc",
+      "bytes": 9984,
       "fields": 2,
-      "rows": 213,
+      "rows": 214,
       "schema": {
         "fields": [
           {
@@ -652,7 +652,40 @@
           }
         ]
       }
+    },
+    {
+      "name": "ficha_tecnica",
+      "type": "table",
+      "profile": "tabular-data-resource",
+      "path": "data/ficha_tecnica.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "hash": "sha256:c5583e038170f86d618cde5014bf172dfcd07348ebcf03325902aba88bd4e252",
+      "bytes": 804,
+      "fields": 3,
+      "rows": 10,
+      "schema": {
+        "fields": [
+          {
+            "name": "servidor",
+            "type": "string",
+            "source": "servidor"
+          },
+          {
+            "name": "cargo",
+            "type": "string",
+            "source": "cargo"
+          },
+          {
+            "name": "ordem",
+            "type": "integer",
+            "source": "ordem"
+          }
+        ]
+      }
     }
   ],
-  "updated_at": "2024-09-24T14:20:15"
+  "updated_at": "2024-09-25T13:37:34"
 }
