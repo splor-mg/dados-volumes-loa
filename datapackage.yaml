@@ -170,3 +170,13 @@ resources:
     format: xlsx
     encoding: utf-8
     schema: schemas/desc_setor_governo.yaml
+  - name: ficha_tecnica
+    path: data-raw/ficha_tecnica.xlsx
+    sharepoint:
+      path: https://cecad365.sharepoint.com/sites/SPLOR/
+      drive: Documentos
+      item: General/@dcppn/DCPPN 2025/PPAG e LOA 2025/PPAG/material de apoio - gerar dos volumes/2025/ficha_tecnica.xlsx
+    scheme: file
+    format: xlsx
+    encoding: utf-8
+    schema: schemas/ficha_tecnica.yaml

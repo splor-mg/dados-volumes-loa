@@ -1,0 +1,7 @@
+fields:
+  - name: servidor
+    type: string
+  - name: cargo
+    type: string
+  - name: ordem
+    type: integer
