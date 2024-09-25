@@ -1178,6 +1178,8 @@ receita_cod_2,receita_desc_2,receita_cod
 1361011402000,Cessão Dir. Operac. Pag. - Poderes Executivo Legislativo - DA-MJM - Benefícios,Detalhe
 1361011403000,Cessão Dir. Operac. Pag. - Poderes Executivo Legislativo - DA-MJM - Fornecedores,Detalhe
 1361012000000,Cessão do Direito de Operacionalização de Pagamentos - Poder Judiciário,Matriz
+1361012100000,Cessão Dir. Operac. Pag. - Poder Judiciário - Principal,Matriz
+1361012101000,Cessão Dir. Operac. Pag. - Poder Judiciário - Princ. - Folha de Pessoal,Detalhe
 1390000000000,Demais Receitas Patrimoniais,Matriz
 1391000000000,Participação da União em Receita de Serviços,Matriz
 1391010000000,Participação da União em Receita de Concursos de Prognósticos e Sorteios,Matriz
@@ -1849,6 +1851,7 @@ receita_cod_2,receita_desc_2,receita_cod
 1717990105007,Agropecuária - Ministério do Desenvolvimento Agrário e Agricultura Familiar,Detalhe
 1717990105008,"Agropecuária - Ministério de Desenvolvimento e Assistência Social, Família e Combate à Fome",Detalhe
 1717990105009,Agropecuária - Banco do Nordeste - BNB,Detalhe
+1717990105010,Agropecuária - Ministério da Pesca e Aquicultura,Detalhe
 1717990106000,Outras Transf. Convênios União Entidades - Princ. - Ciência e Tecnologia,Matriz
 1717990106001,"Ciência Tecnologia - Instituto Nacional de Metrologia, Qualidade e Tecnologia - INMETRO",Detalhe
 1717990106002,Ciência Tecnologia - Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq,Detalhe
@@ -3053,6 +3056,8 @@ receita_cod_2,receita_desc_2,receita_cod
 2414990107007,Agropecuária - Ministério do Desenvolvimento Agrário e Agricultura Familiar,Detalhe
 2414990107008,Agropecuária - Financiadora de Estudos e Projetos - FINEP,Detalhe
 2414990107009,Agropecuária - Banco do Nordeste - BNB,Detalhe
+2414990107010,Agropecuária - Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA,Detalhe
+2414990107011,Agropecuária - Ministério da Pesca e Aquicultura,Detalhe
 2414990108000,Outras Transf. Convênios União - Princ. - Ciência e Tecnologia,Matriz
 2414990108001,"Ciência Tecnologia - Instituto Nacional de Metrologia, Qualidade e Tecnologia - INMETRO",Detalhe
 2414990108002,Ciência Tecnologia - Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq,Detalhe
@@ -3583,6 +3588,8 @@ receita_cod_2,receita_desc_2,receita_cod
 7311011100000,Rec. Intra. - Aluguéis Arrendamentos - Principal,Matriz
 7311011101000,Rec. Intra. - Aluguéis Arrendamentos - Princ. - Aluguéis,Detalhe
 7311020000000,"Rec. Intra. - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos",Matriz
+7311020100000,Rec. Intra. - Conc. Perm. Autor. Cessão Dir. Uso Bens Imóv. Púb. - Principal,Matriz
+7311020101000,Rec. Intra. - Conc. Perm. Autor. Cessão Dir. Uso Bens Imóv. Púb. - Princ. - Concessão de Direito Real de Uso de Área Pública,Detalhe
 7340000000000,Rec. Intra. - Exploração de Recursos Naturais,Matriz
 7349000000000,Rec. Intra. - Exploração de Outros Recursos Naturais,Matriz
 7349010000000,Rec. Intra. - Compensações Ambientais,Matriz
@@ -3670,6 +3677,7 @@ receita_cod_2,receita_desc_2,receita_cod
 7729990100000,Rec. Intra. - Outras Transf. Estados DF - Principal,Matriz
 7729990125000,Rec. Intra. - Outras Transf. Estados DF - Princ. - Repasse do Fundo Estadual de Saúde - FES - LC Federal nº 141/12,Detalhe
 7729990126000,Rec. Intra. - Outras Transf. Estados DF - Princ. - Repasse do Fundo Estadual de Proteção e Defesa do Consumidor - FEPDC,Detalhe
+7729990127000,Rec. Intra. - Outras Transf. Estados DF - Princ. - Repasse do Fundo Especial do Ministério Público do Estado de Minas Gerais - FUNEMP,Detalhe
 7900000000000,Rec. Intra. - Outras Receitas Correntes,Matriz
 7920000000000,"Rec. Intra. - Indenizações, Restituições e Ressarcimentos",Matriz
 7922000000000,Rec. Intra. - Restituições,Matriz
