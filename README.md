@@ -4,24 +4,28 @@
 
 ## Pré-requisitos
 
-Esse projeto utiliza Docker para gerenciamento das dependências. Para fazer _build_  da imagem execute:
 
-```bash
-docker build --tag volumes-loa-dados .
+1. Criar e ativar ambiente virtual do python 3.10
+
+2. Instalar pacotes Python:
+
+```
+pip install -r requirements.txt
+```
+
+4. Instalar pacotes R:
+```R
+Rscript -e 'renv::install(library= "<caminho/para/library/de/sistema/do/R>")'
+```
+
+Obs.: Para listar o caminho das libraries do R, utilize 
+```
+Rscript -e '.libPaths()'
 ```
 
 ## Uso
-
-Para executar o container
-
-```bash
-docker run -it --rm --mount type=bind,source=$(PWD),target=/project volumes-loa-dados bash
-```
-
-Uma vez dentro do container execute os comandos do make
 
 ```bash
 make all
 ```
 
-_Gerado a partir de [cookiecutter-datapackage@a6842ad](https://github.com/splor-mg/cookiecutter-datapackage/commit/a6842adfcb272c31087ae2c891df3637dd5f0dee)_
