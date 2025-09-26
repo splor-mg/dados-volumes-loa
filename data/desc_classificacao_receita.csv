@@ -319,18 +319,22 @@ receita_cod_2,receita_desc_2,receita_cod
 1122020101000,Emolumentos Custas Judiciais - Princ. - Custas Judiciais - Justiça Comum,Detalhe
 1122020102000,Emolumentos Custas Judiciais - Princ. - Custas Judiciais - Juizado Especial,Detalhe
 1122020103000,Emolumentos Custas Judiciais - Princ. - Taxa Judiciária,Detalhe
+1122020104000,Emolumentos Custas Judiciais - Princ. - Emolumentos,Detalhe
 1122020200000,Emolumentos Custas Judiciais - Multas e Juros de Mora,Matriz
 1122020201000,Emolumentos Custas Judiciais - MJM - Custas Judiciais - Justiça Comum,Detalhe
 1122020202000,Emolumentos Custas Judiciais - MJM - Custas Judiciais - Juizado Especial,Detalhe
 1122020203000,Emolumentos Custas Judiciais - MJM - Taxa Judiciária,Detalhe
+1122020204000,Emolumentos Custas Judiciais - MJM - Emolumentos,Detalhe
 1122020300000,Emolumentos Custas Judiciais - Dívida Ativa,Matriz
 1122020301000,Emolumentos Custas Judiciais - DA - Custas Judiciais - Justiça Comum,Detalhe
 1122020302000,Emolumentos Custas Judiciais - DA - Custas Judiciais - Juizado Especial,Detalhe
 1122020303000,Emolumentos Custas Judiciais - DA - Taxa Judiciária,Detalhe
+1122020304000,Emolumentos Custas Judiciais - DA - Emolumentos,Detalhe
 1122020400000,Emolumentos Custas Judiciais - Dívida Ativa - Multas e Juros de Mora,Matriz
 1122020401000,Emolumentos Custas Judiciais - DA-MJM - Custas Judiciais - Justiça Comum,Detalhe
 1122020402000,Emolumentos Custas Judiciais - DA-MJM - Custas Judiciais - Juizado Especial,Detalhe
 1122020403000,Emolumentos Custas Judiciais - DA-MJM - Taxa Judiciária,Detalhe
+1122020404000,Emolumentos Custas Judiciais - DA-MJM - Emolumentos,Detalhe
 1122500000000,Taxas Judiciais,Matriz
 1122510000000,Taxas Extrajudiciais,Matriz
 1122520000000,Taxa de Estudo de Impacto de Vizinhança (EIV),Matriz
@@ -683,15 +687,20 @@ receita_cod_2,receita_desc_2,receita_cod
 1219991102003,Demais Contrib. Soc. - Princ. - Contrib. Civil Saúde - Pensionista,Detalhe
 1219991102004,Demais Contrib. Soc. - Princ. - Contrib. Civil Saúde - Contrato Administrativo,Detalhe
 1219991102005,Demais Contrib. Soc. - Princ. - Contrib. Civil Saúde - Estado - Dependentes,Detalhe
-1219991102006,Demais Contrib. Soc. - Princ. - Contrib. Civil Saúde - Estado - Dependentes - Filhos de 21 a 35 Anos,Detalhe
+1219991102006,Demais Contrib. Soc. - Princ. - Contrib. Civil Saúde - Estado - Dependentes - Filhos,Detalhe
 1219991102007,Demais Contrib. Soc. - Princ. - Contrib. Civil Saúde - Usuário Facultativo,Detalhe
 1219991102008,Demais Contrib. Soc. - Princ. - Contrib. Civil Saúde - Municípios,Detalhe
 1219991102009,Demais Contrib. Soc. - Princ. - Contrib. Civil Saúde - Demais - Servidor,Detalhe
 1219991102010,Demais Contrib. Soc. - Princ. - Contrib. Civil Saúde - Demais - Dependentes,Detalhe
-1219991102011,Demais Contrib. Soc. - Princ. - Contrib. Civil Saúde - Demais - Dependentes - Filhos de 21 a 35 Anos,Detalhe
+1219991102011,Demais Contrib. Soc. - Princ. - Contrib. Civil Saúde - Demais - Dependentes - Filhos,Detalhe
 1219991103000,Demais Contrib. Soc. - Princ. - Instituto de Previdência do Servidor Militar - IPSM,Matriz
 1219991103001,Demais Contrib. Soc. - Princ. - IPSM - Contrib. do Servidor Civil - Ativo,Detalhe
 1219991103002,Demais Contrib. Soc. - Princ. - IPSM - Contrib. do Servidor Civil - Inativo,Detalhe
+1219991103003,Demais Contrib. Soc. - Princ. - IPSM - Contrib. Militar para a Saúde - Ativo,Detalhe
+1219991103004,Demais Contrib. Soc. - Princ. - IPSM - Contrib. Militar para a Saúde - Inativo,Detalhe
+1219991103005,Demais Contrib. Soc. - Princ. - IPSM - Contrib. Militar para a Previdência  - Ativo,Detalhe
+1219991103006,Demais Contrib. Soc. - Princ. - IPSM - Contrib. Militar para a Previdência  - Inativo,Detalhe
+1219991103007,Demais Contrib. Soc. - Princ. - IPSM - Contrib. Militar para a Previdência  - Pensionista,Detalhe
 1219991103051,Demais Contrib. Soc. - Princ. - IPSM - Contrib. Patronal - Ativo Civil,Detalhe
 1219991103052,Demais Contrib. Soc. - Princ. - IPSM - Contrib. Patronal - Inativo Civil,Detalhe
 1219991104000,Demais Contrib. Soc. - Princ. - Instituto de Previdência do Legislativo do Estado de Minas Gerais - IPLEMG,Matriz
@@ -705,6 +714,8 @@ receita_cod_2,receita_desc_2,receita_cod
 1219991107000,Demais Contrib. Soc. - Princ. - Seguro Coletivo,Detalhe
 1219991108000,Demais Contrib. Soc. - Princ. - Seguro do Cônjuge,Detalhe
 1219991109000,Demais Contrib. Soc. - Princ. - Fundo de Garantia Hipotecário,Detalhe
+1219991110000,Demais Contrib. Soc. - Princ. - Contribuição Militar para a Aposentadoria,Matriz
+1219991110001,Demais Contrib. Soc. - Princ. - Contrib. Militar Aposentadoria - Ativo,Detalhe
 1219991199000,Demais Contrib. Soc. - Princ. - Demais,Detalhe
 1219991200000,Demais Contrib. Soc. - Multas e Juros de Mora,Matriz
 1219991201000,Demais Contrib. Soc. - MJM - Contrib. Patronal do Civil para a Saúde,Matriz
@@ -1180,6 +1191,9 @@ receita_cod_2,receita_desc_2,receita_cod
 1361012000000,Cessão do Direito de Operacionalização de Pagamentos - Poder Judiciário,Matriz
 1361012100000,Cessão Dir. Operac. Pag. - Poder Judiciário - Principal,Matriz
 1361012101000,Cessão Dir. Operac. Pag. - Poder Judiciário - Princ. - Folha de Pessoal,Detalhe
+1361012200000,Cessão Dir. Operac. Pag. - Poder Judiciário - Multas e Juros de Mora,Matriz
+1361012300000,Cessão Dir. Operac. Pag. - Poder Judiciário - Dívida Ativa,Matriz
+1361012400000,Cessão Dir. Operac. Pag. - Poder Judiciário - Dívida Ativa - Multas e Juros de Mora,Matriz
 1390000000000,Demais Receitas Patrimoniais,Matriz
 1391000000000,Participação da União em Receita de Serviços,Matriz
 1391010000000,Participação da União em Receita de Concursos de Prognósticos e Sorteios,Matriz
@@ -1715,7 +1729,6 @@ receita_cod_2,receita_desc_2,receita_cod
 1713502000000,Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Atenção Especializada,Matriz
 1713502100000,Transf. Bloco Manut. ASPS - Atenção Especializada - Principal,Matriz
 1713502101000,Transf. Bloco Manut. ASPS - Atenção Especializada - Princ. - Atenção de Média e Alta Complexidade,Matriz
-1713502101000,Transf. Bloco Manut. ASPS - Atenção Especializada - Princ. - Atenção MAC - Prestadores Ambulatoriais e Hospitalares,Matriz
 1713502101001,Transf. Bloco Manut. ASPS - Atenção Especializada - Princ. - Atenção MAC - Prestadores Ambulatoriais e Hospitalares,Detalhe
 1713502101002,Transf. Bloco Manut. ASPS - Atenção Especializada - Princ. - Atenção MAC - SAMU,Detalhe
 1713502101003,Transf. Bloco Manut. ASPS - Atenção Especializada - Princ. - Atenção MAC - Transplantes,Detalhe
@@ -1740,8 +1753,6 @@ receita_cod_2,receita_desc_2,receita_cod
 1713505106000,Transf. Bloco Manut. ASPS - Gestão SUS - Princ. -  Programa SUS Digital,Detalhe
 1713509000000,Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Outros Programas,Matriz
 1713509100000,Transf. Bloco Manut. ASPS - Outros Prog. - Principal,Matriz
-1713509101002,Transf. Bloco Manut. ASPS - Outros Prog. - Princ. - Saúde do Trabalhador,Detalhe
-1713509101003,Transf. Bloco Manut. ASPS - Outros Prog. - Princ. - Incentivo à Procura de Órgãos e Tecidos,Detalhe
 1713509102000,Transf. Bloco Manut. ASPS - Outros Prog. - Princ. - Combate ao Coronavírus,Detalhe
 1713510000000,Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde,Matriz
 1713511000000,Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária,Matriz
@@ -1867,6 +1878,8 @@ receita_cod_2,receita_desc_2,receita_cod
 1717990109002,Cultura - Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN,Detalhe
 1717990109003,Cultura - Ministério do Turismo,Detalhe
 1717990109004,Cultura - Fundo de Defesa dos Direitos Difusos - FDD,Detalhe
+1717990109005,Cultura - Ministério da Cultura,Detalhe
+1717990109006,Cultura - Ministério da Justiça e Segurança Pública,Detalhe
 1717990110000,Outras Transf. Convênios União Entidades - Princ. - Desporto e Lazer,Matriz
 1717990110001,Desporto Lazer - Ministério da Cidadania,Detalhe
 1717990110002,Desporto Lazer - Fundo de Defesa dos Direitos Difusos - FDD,Detalhe
@@ -1874,12 +1887,13 @@ receita_cod_2,receita_desc_2,receita_cod
 1717990111000,Outras Transf. Convênios União Entidades - Princ. - Direitos Humanos e de Cidadania,Matriz
 1717990111001,Dir. Humanos Cidadania - Ministério da Justiça e Segurança Pública,Detalhe
 1717990111002,Dir. Humanos Cidadania - Secretaria Especial de Políticas para as Mulheres,Detalhe
-1717990111003,Dir. Humanos Cidadania - Ministério dos Direitos Humanos,Detalhe
+1717990111003,Dir. Humanos Cidadania - Ministério dos Direitos Humanos e Cidadania,Detalhe
 1717990111004,Dir. Humanos Cidadania - Ministério da Cidadania,Detalhe
 1717990111005,Dir. Humanos Cidadania - Ministério do Desenvolvimento Regional,Detalhe
 1717990112000,Outras Transf. Convênios União Entidades - Princ. - Energia,Matriz
 1717990113000,Outras Transf. Convênios União Entidades - Princ. - Habitação,Matriz
 1717990113001,Habitação - Ministério do Desenvolvimento Regional,Detalhe
+1717990113002,Habitação - Ministério das Cidades,Detalhe
 1717990114000,Outras Transf. Convênios União Entidades - Princ. - Indústria,Matriz
 1717990115000,Outras Transf. Convênios União Entidades - Princ. - Infraestrutura em Transporte,Matriz
 1717990115001,Transporte - Agência Nacional de Aviação Civil - ANAC,Detalhe
@@ -1890,6 +1904,7 @@ receita_cod_2,receita_desc_2,receita_cod
 1717990116002,Meio Ambiente - Agência Nacional de Águas e Saneamento - ANA,Detalhe
 1717990116003,Meio Ambiente - Ministério do Desenvolvimento Regional,Detalhe
 1717990116004,Meio Ambiente - Fundo de Defesa dos Direitos Difusos - FDD,Detalhe
+1717990116005,Meio Ambiente - Ministério da Justiça e Segurança Pública,Detalhe
 1717990117000,Outras Transf. Convênios União Entidades - Princ. - Organização Agrária,Matriz
 1717990117001,Organiz. Agrária - Instituto Nacional de Colonização e Reforma Agrária - INCRA,Detalhe
 1717990117002,"Organiz. Agrária - Ministério da Agricultura, Pecuária e Abastecimento",Detalhe
@@ -1937,6 +1952,7 @@ receita_cod_2,receita_desc_2,receita_cod
 1719550000000,Outras Transferências para Segurança Pública,Matriz
 1719550100000,Outras Transf. Segurança Pública - Principal,Matriz
 1719550101000,Segurança Pública - Ministério do Desenvolvimento Regional,Detalhe
+1719550102000,Segurança Pública - Ministério da Justiça e Segurança Pública,Detalhe
 1719560000000,Transferências Decorrentes de Decisão Judicial (precatórios) Relativas ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEF,Matriz
 1719570000000,Transferência Especial da União,Matriz
 1719570100000,Transf. Especial União - Principal,Matriz
@@ -1971,6 +1987,7 @@ receita_cod_2,receita_desc_2,receita_cod
 1719990112000,Outras Transf. União Entidades - Comércio e Serviços,Matriz
 1719990113000,Outras Transf. União Entidades - Comunicações,Matriz
 1719990114000,Outras Transf. União Entidades - Cultura,Matriz
+1719990114001,Cultura - Ministério da Cultura,Detalhe
 1719990115000,Outras Transf. União Entidades - Desporto e Lazer,Matriz
 1719990115001,Desporto Lazer - Ministério do Esporte,Detalhe
 1719990116000,Outras Transf. União Entidades - Direitos Humanos e de Cidadania,Matriz
@@ -1988,6 +2005,7 @@ receita_cod_2,receita_desc_2,receita_cod
 1719990125000,Outras Transf. União Entidades - Trabalho,Matriz
 1719990125001,Trabalho - Fundo de Amparo ao Trabalhador - FAT,Detalhe
 1719990125002,Trabalho - Ministério da Economia,Detalhe
+1719990125003,Trabalho - Ministério do Trabalho e Emprego,Detalhe
 1719990126000,Outras Transf. União Entidades - Urbanismo,Matriz
 1719990127000,Outras Transf. União Entidades - Enfrentamento à Pandemia de Coronavírus,Matriz
 1719990127001,Pandemia Coronavírus - Complementação ao Fundo de Participação dos Estados - FPE - Impacto Coronavírus,Detalhe
@@ -1997,6 +2015,7 @@ receita_cod_2,receita_desc_2,receita_cod
 1719990127005,Pandemia Coronavírus - Lei Paulo Gustavo - Ações Emergenciais Destinadas ao Setor Cultural - Setor Audiovisual,Detalhe
 1719990127006,Pandemia Coronavírus - Lei Paulo Gustavo - Ações Emergenciais Destinadas ao Setor Cultural - Demais Setores,Detalhe
 1719990128000,Outras Transf. União Entidades - Política Nacional Aldir Blanc de Fomento à Cultura,Detalhe
+1719990129000,Outras Transf. União Entidades - Auxílio de Complementação do FPE - LC n° 201/2023,Detalhe
 1719990199000,Outras Transf. União Entidades - Princ. - Demais,Matriz
 1719990199001,Outras Transf. União Entidades - Princ. - Demais - Bônus de Assinatura do Excedente da Cessão Onerosa pela Exploração do Pré-Sal,Detalhe
 1719990199999,Outras Transf. União Entidades - Princ. - Demais - Outros,Detalhe
@@ -2033,6 +2052,7 @@ receita_cod_2,receita_desc_2,receita_cod
 1724990107004,Adm. Ativ. Fiscal - Companhia de Tecnologia da Informação do Estado de Minas Gerais - PRODEMGE,Detalhe
 1724990107005,Adm. Ativ. Fiscal - Companhia de Desenvolvimento de Minas Gerais - CODEMGE,Detalhe
 1724990108000,Outras Transf. Convênios Estados DF Entidades - Princ. - Agropecuária,Matriz
+1724990108001,Agropecuária -  Companhia de Desenvolvimento de Minas Gerais - CODEMGE,Detalhe
 1724990109000,Outras Transf. Convênios Estados DF Entidades - Princ. - Ciência e Tecnologia,Matriz
 1724990109001,Ciência Tecnologia - Companhia Energética de Minas Gerais - CEMIG,Detalhe
 1724990109002,Ciência Tecnologia - Banco de Desenvolvimento de Minas Gerais - BDMG,Detalhe
@@ -2063,6 +2083,7 @@ receita_cod_2,receita_desc_2,receita_cod
 1724990123004,Segurança Pública - Corpo de Bombeiros do Estado de Rio Grande do Norte - CBMRN,Detalhe
 1724990123005,Segurança Pública - Corpo de Bombeiros do Estado de Sergipe - CBMSE,Detalhe
 1724990123006,Segurança Pública - Companhia Energética de Minas Gerais - CEMIG,Detalhe
+1724990123007,Segurança Pública - Polícia Militar do Estado do Acre - PMAC,Detalhe
 1724990124000,Outras Transf. Convênios Estados DF Entidades - Princ. - Trabalho,Matriz
 1724990125000,Outras Transf. Convênios Estados DF Entidades - Princ. - Urbanismo,Matriz
 1729000000000,Outras Transferências dos Estados e Distrito Federal,Matriz
@@ -2072,11 +2093,12 @@ receita_cod_2,receita_desc_2,receita_cod
 1729990000000,Outras Transferências dos Estados e DF,Matriz
 1729990100000,Outras Transf. Estados DF - Principal,Matriz
 1729990101000,Outras Transf. Estados DF - Princ. - Combate à Fome,Matriz
-1729990102000,Outras Transf. Estados DF - Princ. - Saneamento Básico,Matriz
+1729990102000,Outras Transf. Estados DF - Princ. - Combate à Fome,Matriz
 1729990103000,Outras Transf. Estados DF - Princ. - Ações Legislativas,Matriz
 1729990104000,Outras Transf. Estados DF - Princ. - Ações Judiciárias,Matriz
 1729990105000,Outras Transf. Estados DF - Princ. - Ações Essenciais à Justiça,Matriz
 1729990106000,Outras Transf. Estados DF - Princ. - Administração e Atividade Fiscal,Matriz
+1729990106001,Adm. Ativ. Fiscal - Companhia de Saneamento de Minas Gerais - COPASA,Detalhe
 1729990107000,Outras Transf. Estados DF - Princ. - Agropecuária,Matriz
 1729990108000,Outras Transf. Estados DF - Princ. - Ciência e Tecnologia,Matriz
 1729990109000,Outras Transf. Estados DF - Princ. - Comércio e Serviços,Matriz
@@ -2251,9 +2273,9 @@ receita_cod_2,receita_desc_2,receita_cod
 1741990139000,Outras Transf. Instit. Privadas - Princ. - Demais - Cultura,Matriz
 1741990139999,Cultura - Outros,Detalhe
 1741990140000,Outras Transf. Instit. Privadas - Princ. - Demais - Desporto e Lazer,Matriz
-1741990140001,Desporto e Lazer - Outros,Detalhe
+1741990140999,Desporto Lazer - Outros,Detalhe
 1741990141000,Outras Transf. Instit. Privadas - Princ. - Demais - Direitos Humanos e de Cidadania,Matriz
-1741990141999,Direitos Humanos e de Cidadania - Outros,Detalhe
+1741990141999,Dir. Humanos Cidadania - Outros,Detalhe
 1741990142000,Outras Transf. Instit. Privadas - Princ. - Demais - Energia,Matriz
 1741990143000,Outras Transf. Instit. Privadas - Princ. - Demais - Habitação,Matriz
 1741990144000,Outras Transf. Instit. Privadas - Princ. - Demais - Indústria,Matriz
@@ -2330,6 +2352,7 @@ receita_cod_2,receita_desc_2,receita_cod
 1761990110000,Outras Transf. Exterior - Princ. - Convênios - Comércio e Serviços,Matriz
 1761990111000,Outras Transf. Exterior - Princ. - Convênios - Comunicações,Matriz
 1761990112000,Outras Transf. Exterior - Princ. - Convênios - Cultura,Matriz
+1761990112999,Cultura - Outros,Detalhe
 1761990113000,Outras Transf. Exterior - Princ. - Convênios - Desporto e Lazer,Matriz
 1761990114000,Outras Transf. Exterior - Princ. - Convênios - Direitos Humanos e de Cidadania,Matriz
 1761990114001,Dir. Humanos Cidadania - Organização das Nações Unidas - ONU,Detalhe
@@ -2359,6 +2382,7 @@ receita_cod_2,receita_desc_2,receita_cod
 1761990137000,Outras Transf. Exterior - Princ. - Demais - Comércio e Serviços,Matriz
 1761990138000,Outras Transf. Exterior - Princ. - Demais - Comunicações,Matriz
 1761990139000,Outras Transf. Exterior - Princ. - Demais - Cultura,Matriz
+1761990139999,Cultura - Outros,Detalhe
 1761990140000,Outras Transf. Exterior - Princ. - Demais - Desporto e Lazer,Matriz
 1761990141000,Outras Transf. Exterior - Princ. - Demais - Direitos Humanos e de Cidadania,Matriz
 1761990142000,Outras Transf. Exterior - Princ. - Demais - Energia,Matriz
@@ -2521,6 +2545,8 @@ receita_cod_2,receita_desc_2,receita_cod
 1911061101000,Multas Adm. Danos Ambientais - Princ.,Detalhe
 1911061200000,Multas Adm. Danos Ambientais - Multas e Juros de Mora,Matriz
 1911061201000,Multas Adm. Danos Ambientais - MJM,Detalhe
+1911061300000,Multas Adm. Danos Ambientais - Dívida Ativa,Matriz
+1911061301000,Multas Adm. Danos Ambientais - DA,Detalhe
 1911062000000,Multas Judiciais por Danos Ambientais,Matriz
 1911070000000,Multas Aplicadas Pelos Tribunais de Contas,Matriz
 1911080000000,Multas Decorrentes de Sentenças Judiciais,Matriz
@@ -2564,14 +2590,28 @@ receita_cod_2,receita_desc_2,receita_cod
 1921010100000,Indenizações Danos Causados Patrimônio Público - Principal,Matriz
 1921010101000,Indenizações Danos Causados Patrimônio Público - Princ. - Unidades Penais,Detalhe
 1921010199000,Indenizações Danos Causados Patrimônio Público - Princ. - Demais,Detalhe
+1921010200000,Indenizações Danos Causados Patrimônio Público - Multas e Juros de Mora,Matriz
+1921010299000,Indenizações Danos Causados Patrimônio Público - MJM - Demais,Detalhe
+1921010300000,Indenizações Danos Causados Patrimônio Público - Dívida Ativa,Matriz
+1921010399000,Indenizações Danos Causados Patrimônio Público - DA - Demais,Detalhe
+1921010400000,Indenizações Danos Causados Patrimônio Público - Dívida Ativa - Multas e Juros de Mora,Matriz
+1921010499000,Indenizações Danos Causados Patrimônio Público - DA-MJM - Demais,Detalhe
 1921020000000,Indenização por Posse ou Ocupação Ilícita de Bens Públicos,Matriz
 1921030000000,Indenização por Sinistro,Matriz
 1921030100000,Indenização Sinistro - Principal,Matriz
 1921030101000,Indenização Sinistro - Princ.,Detalhe
+1921040000000,Indenização pela Assistência Médico-Hospitalar,Matriz
+1921050000000,Indenizações por Desastre Oriundas de Acordos Judiciais ou Extrajudiciais,Matriz
+1921050100000,Indenizações Desastre Acordos Judiciais Extrajudiciais - Principal,Matriz
+1921060000000,Indenizações Auferidas pela União Junto a Operadoras Ferroviárias,Matriz
 1921990000000,Outras Indenizações,Matriz
-1921990100000,Outras Indenizações - Principal,Matriz
 1921990101000,Outras Indenizações - Princ. - Impactos e Danos Ambientais,Detalhe
-1921990199000,Outras Indenizações - Princ. - Demais,Detalhe
+1921990200000,Outras Indenizações - Multas e Juros de Mora,Matriz
+1921990299000,Outras Indenizações - MJM - Demais,Detalhe
+1921990300000,Outras Indenizações - Dívida Ativa,Matriz
+1921990399000,Outras Indenizações - DA - Demais,Detalhe
+1921990400000,Outras Indenizações - Dívida Ativa - Multas e Juros de Mora,Matriz
+1921990499000,Outras Indenizações - DA-MJM - Demais,Detalhe
 1922000000000,Restituições,Matriz
 1922010000000,Restituição de Convênios,Matriz
 1922011000000,Restituição de Convênios - Primárias,Matriz
@@ -2610,6 +2650,9 @@ receita_cod_2,receita_desc_2,receita_cod
 1922510101000,Restituições Recursos FUNDEB - Princ.,Detalhe
 1922510200000,Restituições Recursos FUNDEB - Multas e Juros de Mora,Matriz
 1922510201000,Restituições Recursos FUNDEB - MJM,Detalhe
+1922520000000,Restituição de Remuneração de Folha de Pagamento - Pessoal Ativo,Matriz
+1922520100000,Restituição Remuneração Folha Pagamento - Pessoal Ativo - Principal,Matriz
+1922520101000,Restituição Remuneração Folha Pagamento - Pessoal Ativo - Princ.,Detalhe
 1922990000000,Outras Restituições,Matriz
 1922990100000,Outras Restituições - Principal,Matriz
 1922990101000,Outras Restituições - Princ. - Recursos Originários do Fundo Estadual de Saúde - FES,Detalhe
@@ -2641,6 +2684,9 @@ receita_cod_2,receita_desc_2,receita_cod
 1923030100000,Reversão Garantias - Principal,Matriz
 1923030101000,Reversão Garantias - Princ.,Detalhe
 1923040000000,Ressarcimento ao Regime Geral de Previdência Social - RGPS,Matriz
+1923500000000,Ressarcimento por pagamento de pessoal cedido,Matriz
+1923500100000,Ressarcimento pagamento pessoal cedido - Principal,Matriz
+1923500101000,Ressarcimento pagamento pessoal cedido - Princ.,Detalhe
 1923990000000,Outros Ressarcimentos,Matriz
 1923990100000,Outros Ressarcimentos - Principal,Matriz
 1923990101000,Outros Ressarcimentos - Princ. - Retenção sobre Pagamento Folha de Sentenciado,Detalhe
@@ -2734,7 +2780,7 @@ receita_cod_2,receita_desc_2,receita_cod
 1999121000000,Encargos Legais pela Inscrição em Dívida Ativa,Matriz
 1999122000000,Ônus de Sucumbência,Matriz
 1999122100000,Ônus Sucumbência - Princ.,Matriz
-1999122101000,Ônus Sucumbência - Princ. - Honorários de Advogados,Detalhe
+1999122101000,Ônus Sucumbência - Princ. - Honorários,Detalhe
 1999122199000,Ônus Sucumbência - Princ. - Demais,Detalhe
 1999130000000,"Recursos Recebidos de Órgãos, Entidades ou Fundos, por Força de Determinação Constitucional ou Legal",Matriz
 1999131000000,Recursos Recebidos de Fundos de Desenvolvimento Regional,Matriz
@@ -2774,6 +2820,7 @@ receita_cod_2,receita_desc_2,receita_cod
 1999992115000,Outras Rec. - Primárias - Princ. - Gestão de Veículos Apreendidos e Removidos,Detalhe
 1999992116000,Outras Rec. - Primárias - Princ. - Rendas de Loteria Convencional,Detalhe
 1999992117000,"Outras Rec. - Primárias - Princ. - Bens, Direitos e Valores Objeto de Renúncia Voluntária em Acordo de Não Persecução Cível",Detalhe
+1999992118000,Outras Rec. - Primárias - Princ. - Recomposição da Compensação Financeira dos Regimes de Previdência ,Detalhe
 1999992199000,Outras Rec. - Primárias - Princ. - Demais,Detalhe
 1999992200000,Outras Rec. - Primárias - Multas e Juros de Mora,Matriz
 1999992201000,Outras Rec. - Primárias - MJM - Recursos de Depósitos Judiciais,Detalhe
@@ -2994,7 +3041,7 @@ receita_cod_2,receita_desc_2,receita_cod
 2412509102000,Educação - FNDE - Construção de Quadras Poliesportivas,Detalhe
 2412509103000,Educação - FNDE - Aquisição de Equipamentos de Material Permanente,Detalhe
 2412509104000,Educação - FNDE - Plano Todos pela Educação,Detalhe
-2412509105000,Educação - FNDE - Escola em Tempo Integral,Detalhe
+2412509105000,Educação - FNDE - Programa de Fomento às Escolas de Ensino Médio em Tempo Integral,Detalhe
 2412509199000,Educação - FNDE - Demais,Detalhe
 2413000000000,Transferências de Recursos do Fundo Nacional de Assistência Social - FNAS ,Matriz
 2413500000000,Transferências de Recursos do Fundo Nacional de Assistência Social - FNAS,Matriz
@@ -3021,7 +3068,6 @@ receita_cod_2,receita_desc_2,receita_cod
 2414520101000,Saneamento - Ministério do Desenvolvimento Regional,Detalhe
 2414520102000,Saneamento - Ministério das Cidades,Detalhe
 2414520103000,Saneamento - Fundação Nacional de Saúde - FUNASA,Detalhe
-2414520104000,Saneamento - Ministério do Desenvolvimento Regional,Detalhe
 2414530000000,Transferências de Convênios da União Destinadas a Programas de Meio Ambiente,Matriz
 2414530100000,Transf. Convênios União Meio Ambiente - Principal,Matriz
 2414530101000,Meio Ambiente - Ministério do Meio Ambiente,Detalhe
@@ -3035,7 +3081,6 @@ receita_cod_2,receita_desc_2,receita_cod
 2414540104000,"Transporte - Ministério da Agricultura, Pecuária e Abastecimento",Detalhe
 2414540105000,Transporte - Ministério da Infraestrutura,Detalhe
 2414540106000,Transporte - Secretaria Nacional de Aviação Civil,Detalhe
-2414540107000,Transporte - Agência Nacional de Aviação Civil,Detalhe
 2414990000000,Outras Transferências de Convênios da União e de Suas Entidades,Matriz
 2414990100000,Outras Transf. Convênios União - Principal,Matriz
 2414990101000,Outras Transf. Convênios União - Princ. - Assistência Social,Matriz
@@ -3052,7 +3097,6 @@ receita_cod_2,receita_desc_2,receita_cod
 2414990107003,Agropecuária - Secretaria de Agricultura Familiar e Cooperativismo do Governo Federal,Detalhe
 2414990107004,Agropecuária - Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba - CODEVASF,Detalhe
 2414990107005,Agropecuária - Ministério de Desenvolvimento Social e Combate à Fome,Detalhe
-2414990107006,Agropecuária - Ministério do Desenvolvimento Regional,Detalhe
 2414990107007,Agropecuária - Ministério do Desenvolvimento Agrário e Agricultura Familiar,Detalhe
 2414990107008,Agropecuária - Financiadora de Estudos e Projetos - FINEP,Detalhe
 2414990107009,Agropecuária - Banco do Nordeste - BNB,Detalhe
@@ -3072,6 +3116,7 @@ receita_cod_2,receita_desc_2,receita_cod
 2414990111004,Cultura - Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN,Detalhe
 2414990111005,Cultura - Banco Nacional de Desenvolvimento Econômico e Social - BNDES,Detalhe
 2414990111006,Cultura - Fundo de Defesa dos Direitos Difusos - FDD,Detalhe
+2414990111007,Cultura - Fundo Nacional de Saúde - FNS,Detalhe
 2414990112000,Outras Transf. Convênios União - Princ. - Desporto e Lazer,Matriz
 2414990112001,Desporto Lazer - Ministério do Esporte,Detalhe
 2414990112002,Desporto Lazer - Ministério da Cidadania,Detalhe
@@ -3145,6 +3190,7 @@ receita_cod_2,receita_desc_2,receita_cod
 2419990123000,Outras Transf. União Entidades - Segurança Pública,Matriz
 2419990123001,Segurança Pública - Fundo Penitenciário Nacional,Detalhe
 2419990123002,Segurança Pública - Fundo Nacional de Segurança Pública,Detalhe
+2419990123003,Segurança Pública - Ministério da Justiça e Segurança Pública,Detalhe
 2419990124000,Outras Transf. União Entidades - Trabalho,Matriz
 2419990124001,Trabalho - Fundo de Amparo ao Trabalhador - FAT,Detalhe
 2419990125000,Outras Transf. União Entidades - Urbanismo,Matriz
@@ -3176,10 +3222,12 @@ receita_cod_2,receita_desc_2,receita_cod
 2422990107000,Outras Transf. Convênios Estados DF Entidades - Princ. - Agropecuária,Matriz
 2422990108000,Outras Transf. Convênios Estados DF Entidades - Princ. - Ciência e Tecnologia,Matriz
 2422990108001,Ciência Tecnologia - Companhia de Desenvolvimento Econômico do Estado de Minas Gerais - CODEMIG,Detalhe
+2422990108002,Ciência Tecnologia - Companhia Energética de Minas Gerais - CEMIG ,Detalhe
 2422990109000,Outras Transf. Convênios Estados DF Entidades - Princ. - Comércio e Serviços,Matriz
 2422990110000,Outras Transf. Convênios Estados DF Entidades - Princ. - Comunicações,Matriz
 2422990111000,Outras Transf. Convênios Estados DF Entidades - Princ. - Cultura,Matriz
 2422990111001,Cultura - Companhia de Desenvolvimento Econômico do Estado de Minas Gerais - CODEMIG,Detalhe
+2422990111002,Cultura - Companhia de Desenvolvimento de Minas Gerais - CODEMGE,Detalhe
 2422990112000,Outras Transf. Convênios Estados DF Entidades - Princ. - Desporto e Lazer,Matriz
 2422990113000,Outras Transf. Convênios Estados DF Entidades - Princ. - Direitos Humanos e de Cidadania,Matriz
 2422990114000,Outras Transf. Convênios Estados DF Entidades - Princ. - Energia,Matriz
@@ -3196,6 +3244,7 @@ receita_cod_2,receita_desc_2,receita_cod
 2422990120004,Segurança Pública - Corpo de Bombeiros do Estado de Rio Grande do Norte - CBMRN,Detalhe
 2422990120005,Segurança Pública - Corpo de Bombeiros do Estado de Sergipe - CBMSE,Detalhe
 2422990120006,Segurança Pública - Companhia Energética de Minas Gerais - CEMIG,Detalhe
+2422990120007,Segurança Pública - Polícia Militar do Estado do Acre - PMAC,Detalhe
 2422990121000,Outras Transf. Convênios Estados DF Entidades - Princ. - Trabalho,Matriz
 2422990122000,Outras Transf. Convênios Estados DF Entidades - Princ. - Urbanismo,Matriz
 2429000000000,Outras Transferências de Recursos dos Estados,Matriz
@@ -3309,6 +3358,9 @@ receita_cod_2,receita_desc_2,receita_cod
 2441010000000,Transferências de Instituições Privadas para Órgãos e Entidades da União,Matriz
 2441500000000,Transferências de Convênios de Instituições Privadas Destinados a Programas de Saúde,Matriz
 2441510000000,Transferências de Convênios de Instituições Privadas Destinados a Programas de Educação,Matriz
+2441520000000,Transferencias do FEF - LC n° 212/2025,Matriz
+2441520100000,Transf. FEF - LC n° 212/2025 - Principal,Matriz
+2441520101000,Transf. FEF - LC n° 212/2025 - Princ.,Detalhe
 2441990000000,Outras Transferências de Instituições Privadas,Matriz
 2441990100000,Outras Transf. Instit. Privadas - Principal,Matriz
 2441990101000,Outras Transf. Instit. Privadas - Princ. - Convênios - Assistência Social,Matriz
@@ -3376,6 +3428,7 @@ receita_cod_2,receita_desc_2,receita_cod
 2441990139999,Cultura - Outros,Detalhe
 2441990140000,Outras Transf. Instituições Privadas - Desporto e Lazer,Matriz
 2441990141000,Outras Transf. Instituições Privadas - Direitos Humanos e de Cidadania,Matriz
+2441990141999,Dir. Humanos Cidadania - Outros,Detalhe
 2441990142000,Outras Transf. Instituições Privadas - Energia,Matriz
 2441990143000,Outras Transf. Instituições Privadas - Habitação,Matriz
 2441990144000,Outras Transf. Instituições Privadas - Indústria,Matriz
@@ -3512,7 +3565,8 @@ receita_cod_2,receita_desc_2,receita_cod
 2999990100000,Demais Rec. Capital - Princ.,Matriz
 2999990101000,Demais Rec. Capital - Princ. - Reserva Atuarial,Detalhe
 2999990102000,Demais Rec. Capital - Princ. - Rompimento da Barragem da Mina do Córrego do Feijão em Brumadinho,Detalhe
-2999990103000,Demais Rec. Capital - Princ. - Rompimento da Barragem de Fundão em Mariana - Renova,Detalhe
+2999990103000,Demais Rec. Capital - Princ. - Rompimento da Barragem de Fundão em Mariana - Demais Recursos,Detalhe
+2999990104000,Demais Rec. Capital - Princ. - Rompimento da Barragem de Fundão em Mariana - Acordo Judicial de Reparação Integral e Definitiva,Detalhe
 2999990199000,Demais Rec. Capital - Princ. - Demais,Detalhe
 2999990200000,Demais Rec. Capital - Multas e Juros de Mora,Matriz
 2999990203000,Demais Rec. Capital - MJM - Rompimento da Barragem de Fundão em Mariana - Renova,Detalhe
@@ -3531,6 +3585,7 @@ receita_cod_2,receita_desc_2,receita_cod
 7121040000000,Rec. Intra. - Taxa de Controle e Fiscalização Ambiental,Matriz
 7121040100000,Rec. Intra. - Tx. Contr. Fisc. Ambient. - Principal,Matriz
 7121040103000,Rec. Intra. - Tx. Contr. Fisc. Ambient. - Princ. - Taxa de Controle e Fiscalização Ambiental,Detalhe
+7121040104000,Rec. Intra. - Tx. Contr. Fisc. Ambient. - Princ. - Taxa de Regularização Ambiental,Detalhe
 7200000000000,Rec. Intra. - Contribuições,Matriz
 7210000000000,Rec. Intra. - Contribuições Sociais,Matriz
 7215000000000,Rec. Intra. - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social,Matriz
@@ -3563,6 +3618,8 @@ receita_cod_2,receita_desc_2,receita_cod
 7215532000000,Rec. Intra. - Contribuição Patronal do Militar Inativo,Matriz
 7215532100000,Rec. Intra. - Contrib. Patronal Militar Inativo - Principal,Matriz
 7215532101000,Rec. Intra. - Contrib. Patronal Militar Inativo - Princ. - Saúde,Detalhe
+7215532102000,Rec. Intra. - Contrib. Patronal Militar Inativo - Princ. - Pensão,Detalhe
+7215532103000,Rec. Intra. - Contrib. Patronal Militar Inativo - Princ. - Aposentadoria,Detalhe
 7219000000000,Rec. Intra. - Outras Contribuições Sociais,Matriz
 7219990000000,Rec. Intra. - Demais Contribuições Sociais,Matriz
 7219991000000,Rec. Intra. - Demais Contribuições Sociais não Arrecadadas e não Projetadas pela RFB,Matriz
@@ -3573,13 +3630,20 @@ receita_cod_2,receita_desc_2,receita_cod
 7219991101003,Rec. Intra. - Demais Contrib. Soc. - Princ. - Contrib. Patron. Civil Saúde - Pensionista,Detalhe
 7219991101004,Rec. Intra. - Demais Contrib. Soc. - Princ. - Contrib. Patron. Civil Saúde - Contrato Administrativo,Detalhe
 7219991101005,Rec. Intra. - Demais Contrib. Soc. - Princ. - Contrib. Patron. Civil Saúde - Estado - Dependentes,Detalhe
-7219991101006,Rec. Intra. - Demais Contrib. Soc. - Princ. - Contrib. Patron. Civil Saúde - Estado - Dependentes - Filhos de 21 a 35 Anos,Detalhe
+7219991101006,Rec. Intra. - Demais Contrib. Soc. - Princ. - Contrib. Patron. Civil Saúde - Estado - Dependentes - Filhos,Detalhe
 7219991101007,Rec. Intra. - Demais Contrib. Soc. - Princ. - Contrib. Patron. Civil Saúde - Usuário Facultativo,Detalhe
 7219991103000,Rec. Intra. - Demais Contrib. Soc. - Princ. - Instituto de Previdência do Servidor Militar - IPSM,Matriz
 7219991103051,Rec. Intra. - Demais Contrib. Soc. - Princ. - IPSM - Contrib. Patronal - Ativo Civil,Detalhe
 7219991103052,Rec. Intra. - Demais Contrib. Soc. - Princ. - IPSM - Contrib. Patronal - Inativo Civil,Detalhe
+7219991103053,Rec. Intra. - Demais Contrib. Soc. - Princ. - IPSM - Contrib. Patronal Militar para a Saúde - Ativo,Detalhe
+7219991103054,Rec. Intra. - Demais Contrib. Soc. - Princ. - IPSM - Contrib. Patronal Militar para a Saúde - Inativo,Detalhe
+7219991103055,Rec. Intra. - Demais Contrib. Soc. - Princ. - IPSM - Contrib. Patronal Militar para a Previdência - Ativo,Detalhe
+7219991103056,Rec. Intra. - Demais Contrib. Soc. - Princ. - IPSM - Contrib. Patronal Militar para a Previdência - Inativo,Detalhe
 7219991104000,Rec. Intra. - Demais Contrib. Soc. - Princ. - Instituto de Previdência do Legislativo do Estado de Minas Gerais - IPLEMG,Matriz
 7219991104051,Rec. Intra. - Demais Contrib. Soc. - Princ. - IPLEMG - Contrib. Patronal - Exercente de Mandato Estadual,Detalhe
+7219991110000,Rec. Intra. - Demais Contrib. Soc. - Princ. - Contribuição Patronal Militar para a Aposentadoria,Matriz
+7219991110051,Rec. Intra. - Demais Contrib. Soc. - Princ. - Contrib. Patronal Militar Aposentadoria - Ativo,Detalhe
+7219991110052,Rec. Intra. - Demais Contrib. Soc. - Princ. - Contrib. Patronal Militar Aposentadoria - Inativo,Detalhe
 7219991200000,Rec. Intra. - Demais Contrib. Soc. - Multas e Juros de Mora,Matriz
 7219991205000,Rec. Intra. - Demais Contrib. Soc. - MJM - Renegociação de Obrigações Previdenciárias,Detalhe
 7300000000000,Rec. Intra. - Receita Patrimonial,Matriz
@@ -3593,6 +3657,10 @@ receita_cod_2,receita_desc_2,receita_cod
 7311020100000,Rec. Intra. - Conc. Perm. Autor. Cessão Dir. Uso Bens Imóv. Púb. - Principal,Matriz
 7311020101000,Rec. Intra. - Conc. Perm. Autor. Cessão Dir. Uso Bens Imóv. Púb. - Princ. - Concessão de Direito Real de Uso de Área Pública,Detalhe
 7340000000000,Rec. Intra. - Exploração de Recursos Naturais,Matriz
+7345000000000,Rec. Intra. - Exploração de Recursos Hídricos,Matriz
+7345010000000,Rec. Intra. - Outorga de Direitos de Uso de Recursos Hídricos,Matriz
+7345010100000,Rec. Intra. - Outorga Dir. Uso Recursos Hídricos - Principal,Matriz
+7345010101000,Rec. Intra. - Outorga Dir. Uso Recursos Hídricos - Princ.,Detalhe
 7349000000000,Rec. Intra. - Exploração de Outros Recursos Naturais,Matriz
 7349010000000,Rec. Intra. - Compensações Ambientais,Matriz
 7349010100000,Rec. Intra. - Compensações Ambientais - Principal,Matriz
@@ -3715,6 +3783,7 @@ receita_cod_2,receita_desc_2,receita_cod
 7999992114005,Rec. Intra. - Outras Rec. - Primárias - Princ. - Aporte Insuficiência Financeira RPPS - Tribunal de Justiça Militar do Estado de Minas Gerais,Detalhe
 7999992114006,Rec. Intra. - Outras Rec. - Primárias - Princ. - Aporte Insuficiência Financeira RPPS - Ministério Público do Estado de Minas Gerais,Detalhe
 7999992114007,Rec. Intra. - Outras Rec. - Primárias - Princ. - Aporte Insuficiência Financeira RPPS - Defensoria Pública do Estado de Minas Gerais,Detalhe
+7999992118000,Rec. Intra. - Outras Rec. - Primárias - Princ. - Recomposição da Compensação Financeira dos Regimes de Previdência ,Detalhe
 7999992199000,Rec. Intra. - Outras Rec. - Primárias - Princ. - Demais,Detalhe
 9000000000000,Dedução das Receitas,Matriz
 9100000000000,"Dedução Rec. - Impostos, Taxas e Contribuições de Melhoria",Matriz
