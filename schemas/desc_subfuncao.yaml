@@ -3,3 +3,7 @@ fields:
     type: integer
   - name: subfuncao
     type: string
+  - name: COD_SUBFUNCAO
+    type: integer
+  - name: DESCRICAO
+    type: string
