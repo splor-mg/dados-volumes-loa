@@ -5,8 +5,8 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/exec_desp_realizada.xlsx
-              
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/exec_desp_realizada.xlsx
+
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -16,7 +16,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/exec_rec.xlsx
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/exec_rec.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -26,7 +26,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/FFP_acoes.xlsx
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/FFP_acoes.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -36,7 +36,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/Nome_UO_antigas.xlsx
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/Nome_UO_antigas.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -46,7 +46,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/codigosPoder.xlsx
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/codigosPoder.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -56,7 +56,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/correspondencia_mun_terr_desenvol.xlsx
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/correspondencia_mun_terr_desenvol.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -66,7 +66,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/desc_IAG.xlsx
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/desc_IAG.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -76,7 +76,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/desc_IPU.xlsx
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/desc_IPU.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -86,7 +86,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/desc_classificacao_economica_despesa.xlsx
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/desc_classificacao_economica_despesa.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -96,7 +96,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/desc_classificacao_receita.xlsx
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/desc_classificacao_receita.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -106,7 +106,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/desc_fontes_de_recursos.xlsx
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/desc_fontes_de_recursos.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -116,7 +116,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/desc_funcao.xlsx
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/desc_funcao.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -126,7 +126,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/desc_grupos_de_despesa.xlsx
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/desc_grupos_de_despesa.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -136,7 +136,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/desc_subfuncao.xlsx
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/desc_subfuncao.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -146,7 +146,7 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/memoria_calculo.xlsx
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/memoria_calculo.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
@@ -156,28 +156,28 @@ resources:
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/desc_base_legal_demonstrativos.xlsx
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/desc_base_legal_demonstrativos.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
     schema: schemas/desc_base_legal_demonstrativos.yaml
-  - name: desc_setor_governo
-    path: data-raw/desc_setor_governo.xlsx
+  - name: desc_setor_uo_orgao
+    path: data-raw/desc_Setor_UO_Orgao.xlsx
     sharepoint:
         path: https://cecad365.sharepoint.com/sites/SPLOR/
         drive: Documentos
-        item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/desc_Setor_UO_Orgao.xlsx
-        
+        item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/desc_Setor_UO_Orgao.xlsx
+
     scheme: file
     format: xlsx
     encoding: utf-8
-    schema: schemas/desc_setor_governo.yaml
+    schema: schemas/desc_setor_uo_orgao.yaml
   - name: ficha_tecnica
     path: data-raw/ficha_tecnica.xlsx
     sharepoint:
       path: https://cecad365.sharepoint.com/sites/SPLOR/
       drive: Documentos
-      item: General/@dcppn/DCPPN 2026/PPAG e LOA 2026/material de apoio/material de apoio - gerar volumes/2026/ficha_tecnica.xlsx
+      item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/ficha_tecnica.xlsx
     scheme: file
     format: xlsx
     encoding: utf-8
