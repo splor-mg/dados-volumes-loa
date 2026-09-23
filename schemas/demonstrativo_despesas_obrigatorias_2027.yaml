@@ -1,0 +1,19 @@
+fields:
+  - name: PODER
+    type: string
+  - name: ESPECIFICACAO
+    type: string
+  - name: NIVEL
+    type: string
+  - name: DESPESA_ANO1
+    type: string
+  - name: PERCENTUAL1
+    type: string
+  - name: DESPESA_ANO2
+    type: string
+  - name: PERCENTUAL2
+    type: string
+  - name: DESPESA_ANO3
+    type: string
+  - name: PERCENTUAL3
+    type: string
