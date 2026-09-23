@@ -7,10 +7,10 @@ OUTPUT_FILES := $(addsuffix .csv,$(addprefix data/,$(RESOURCE_NAMES)))
 
 all: extract validate transform build check
 
-extract: 
+extract:
 	python scripts/download_items.py datapackage.yaml
 
-validate: 
+validate:
 	frictionless validate datapackage.yaml
 
 transform: $(OUTPUT_FILES)
@@ -26,7 +26,7 @@ datapackage.json: $(OUTPUT_FILES) scripts/build.py datapackage.yaml
 check:
 	frictionless validate datapackage.json
 
-publish: 
-	git add -Af datapackage.json data/*.csv data-raw/*.xlsx
+publish:
+	git add -Af datapackage.json data/ data-raw/
 	git commit --author="Automated <actions@users.noreply.github.com>" -m "Update data package at: $$(date +%Y-%m-%dT%H:%M:%SZ)" || exit 0
 	git push
