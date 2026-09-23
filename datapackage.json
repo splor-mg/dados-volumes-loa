@@ -11,10 +11,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:e79dc1807e4d15c171f7afd997c73dd120509d2a307c8d91061c2200715062ac",
-      "bytes": 4654789,
+      "hash": "sha256:db2f070b26d9d8b0be6124a3ccac2fec4defe9dd49311aff31e9c88bb096c487",
+      "bytes": 4689363,
       "fields": 20,
-      "rows": 57089,
+      "rows": 57251,
       "schema": {
         "fields": [
           {
@@ -182,10 +182,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:02642437cc192eeca2f232968feea43047df4bbf7a0dda1d2ab7ebb4866deeb7",
-      "bytes": 2832,
+      "hash": "sha256:cbc6ed88eb203c689ae6ca06935b938e9063ee5b9cb04452d67f38936f9fa5d4",
+      "bytes": 2884,
       "fields": 3,
-      "rows": 58,
+      "rows": 59,
       "schema": {
         "fields": [
           {
@@ -215,10 +215,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:df41871dc07d8bcf7e3b0631cf319100dbcd38d529b7a2d2123b27e3c7257d78",
-      "bytes": 361,
+      "hash": "sha256:3bf91bdb9b3ac5b6aaa47f5d10c2edb254234073f6e8261d0196eafcf900bb4f",
+      "bytes": 56,
       "fields": 2,
-      "rows": 5,
+      "rows": 1,
       "schema": {
         "fields": [
           {
@@ -319,8 +319,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:f0b995eeec5b4b94586d1e6d175c1c888075c6ee1f6ab1d73ce7287299ebe3ff",
-      "bytes": 78,
+      "hash": "sha256:bd8a602eb0e54f4d41153a5c4edbd16b30da7005c0e708619dad6c6416e79b0a",
+      "bytes": 80,
       "fields": 2,
       "rows": 2,
       "schema": {
@@ -375,10 +375,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:f7f5efb5f1635044d247a33c2c3bfb0bb1e8b9aac9a502f4d49346e0bafbb702",
-      "bytes": 10270,
+      "hash": "sha256:4bd2612009b5fee9c285a9b9e676956efffcb203e46e345f728da6b6bc89b375",
+      "bytes": 10420,
       "fields": 2,
-      "rows": 218,
+      "rows": 220,
       "schema": {
         "fields": [
           {
@@ -403,10 +403,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:ff01df440ec09bfdb802e88dc46a4bdf9d9d427b37a3951748424f06d5a6cc24",
-      "bytes": 358764,
+      "hash": "sha256:be2f80378681390fb973a62660651e35b1e89b6c4d2884a4805dec6901d38b50",
+      "bytes": 365636,
       "fields": 3,
-      "rows": 3898,
+      "rows": 3974,
       "schema": {
         "fields": [
           {
@@ -436,8 +436,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:5a12f2994cf7b2b84e76dcf6633e96386aec69d1a1128bb3481d9c73757d517f",
-      "bytes": 27654,
+      "hash": "sha256:4bfa4da38ad7758086396d76b8168367cd4cd60c9baea1baa27660fc98c2a27e",
+      "bytes": 27781,
       "fields": 3,
       "rows": 99,
       "schema": {
@@ -558,10 +558,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:71a80073dddfa8d65181081aace0d2d37b27f63f9728050fe029b32e046590d6",
-      "bytes": 3148,
+      "hash": "sha256:91caed789cd573d003e55f61ade418ff2891d8045de7374f8c7d24c48e954031",
+      "bytes": 3444,
       "fields": 2,
-      "rows": 52,
+      "rows": 54,
       "schema": {
         "fields": [
           {
@@ -586,10 +586,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:e2bf6196273d4b2c305bf3f6c7150497d124bbcaf4425900cd03f4f884792316",
-      "bytes": 5989,
+      "hash": "sha256:0ec0cbbb0e3849c36513772834cbdfa2be9bd92a06f33bef03511ed833ac974c",
+      "bytes": 6134,
       "fields": 3,
-      "rows": 29,
+      "rows": 30,
       "schema": {
         "fields": [
           {
@@ -611,18 +611,18 @@
       }
     },
     {
-      "name": "desc_setor_governo",
+      "name": "desc_setor_uo_orgao",
       "type": "table",
       "profile": "tabular-data-resource",
-      "path": "data/desc_setor_governo.csv",
+      "path": "data/desc_setor_uo_orgao.csv",
       "scheme": "file",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:7e40de6853efe06bfbf1f149dac67519270f191aec2fb4e5abf325564812078a",
-      "bytes": 15816,
+      "hash": "sha256:89f809a91ed4f51f4b6f6292a1fae002348f6b4cde22b582a17337c704c23619",
+      "bytes": 16189,
       "fields": 5,
-      "rows": 119,
+      "rows": 121,
       "schema": {
         "fields": [
           {
@@ -662,10 +662,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:2ba329c696a4fa7e2323aba5c54e86d8d09ad8d73660b96feaf8d92935ba5acc",
-      "bytes": 792,
+      "hash": "sha256:1e57ada85be14deb7a625295d78a8ae55a406eb4350c9f264f63027c5bdb500c",
+      "bytes": 730,
       "fields": 3,
-      "rows": 10,
+      "rows": 9,
       "schema": {
         "fields": [
           {
@@ -687,5 +687,5 @@
       }
     }
   ],
-  "updated_at": "2026-03-05T19:07:16"
+  "updated_at": "2026-09-23T19:58:21"
 }
