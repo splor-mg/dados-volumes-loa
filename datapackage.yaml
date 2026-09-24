@@ -182,13 +182,13 @@ resources:
     format: xlsx
     encoding: utf-8
     schema: schemas/ficha_tecnica.yaml
-  - name: demonstrativo_despesas_obrigatorias_2027
-    path: data-raw/demonstrativo_despesas_obrigatorias_2027.csv
+  - name: demonstrativo_despesas_obrigatorias
+    path: data-raw/demonstrativo_despesas_obrigatorias.csv
     sharepoint:
       path: https://cecad365.sharepoint.com/sites/SPLOR/
       drive: Documentos
-      item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/demonstrativo_despesas_obrigatorias_2027.csv
+      item: General/@dcppn/00- DCPPN 2027/PPAG e LOA 2027/Dados para Volumes/demonstrativo_despesas_obrigatorias.csv
     scheme: file
     format: csv
     encoding: utf-8
-    schema: schemas/demonstrativo_despesas_obrigatorias_2027.yaml
+    schema: schemas/demonstrativo_despesas_obrigatorias.yaml
